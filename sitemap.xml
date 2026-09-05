@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Home / Landing Page -->
+  <url>
+    <loc>https://sunahmuslim.com/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sunahmuslim.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunahmuslim.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sunahmuslim.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunahmuslim.com/" />
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://sunahmuslim.com/privacy/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sunahmuslim.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunahmuslim.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sunahmuslim.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunahmuslim.com/privacy/" />
+  </url>
+
+  <!-- Terms of Service -->
+  <url>
+    <loc>https://sunahmuslim.com/terms/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sunahmuslim.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunahmuslim.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sunahmuslim.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunahmuslim.com/terms/" />
+  </url>
+
+  <!-- Account & Data Deletion Portal -->
+  <url>
+    <loc>https://sunahmuslim.com/delete-account/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sunahmuslim.com/delete-account/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sunahmuslim.com/delete-account/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sunahmuslim.com/delete-account/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunahmuslim.com/delete-account/" />
+  </url>
+
+</urlset>
