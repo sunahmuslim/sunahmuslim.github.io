@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+3:I[51443,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2w7r4_tpp_4js.js","/_next/static/chunks/0dbk1xol_4p93.js"],"LanguageSync"]
+4:"$Sreact.suspense"
+5:I[8513,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2w7r4_tpp_4js.js","/_next/static/chunks/0dbk1xol_4p93.js"],"QuranLandingIndex"]
+6:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+a:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+b:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+2:T6fc,[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://sunahmuslim.com/en/"},{"@type":"ListItem","position":2,"name":"The Holy Quran","item":"https://sunahmuslim.com/en/quran/"},{"@type":"ListItem","position":3,"name":"Surah Al-A'raf","item":"https://sunahmuslim.com/en/quran/7/"},{"@type":"ListItem","position":4,"name":"Ayat 70","item":"https://sunahmuslim.com/en/quran/7/70/"}]},{"@context":"https://schema.org","@type":"Article","@id":"https://sunahmuslim.com/en/quran/7/70/#article","url":"https://sunahmuslim.com/en/quran/7/70/","headline":"Surah Al-A'raf : 70","description":"\"قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن ...\" — \"Mereka berkata, \"Apakah kedatanganmu kepada kami, agar kami hanya menyembah Allah saja dan meninggalkan apa yang biasa disembah oleh ne...\" (Quran 7:70). Read online with authentic Madinah typography, verified translations, and audio.","articleBody":"قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ","inLanguage":"en","isPartOf":{"@type":"WebPage","@id":"https://sunahmuslim.com/en/quran/7/#webpage","url":"https://sunahmuslim.com/en/quran/7/","name":"Surah Al-A'raf"},"publisher":{"@type":"Organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":{"@type":"ImageObject","url":"https://sunahmuslim.com/logo.png"}}}]9:X
+2e:X
+2e:C
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"lang":"en"}],["$","$4",null,{"fallback":["$","div",null,{"className":"quran-page-wrap","children":["$","div",null,{"className":"quran-container py-16 text-center text-gray-400","children":["Memuat Surah ",7," Ayat ",70,"..."]}]}],"children":["$","div",null,{"className":"quran-page-wrap","children":["$","$L5",null,{"initialSurahNumber":7,"initialAyahNumber":70,"singleAyahMode":true}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/2w7r4_tpp_4js.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0dbk1xol_4p93.js","async":true}]],["$","$L6",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Surah Al-A'raf Verse 70 — Arabic Text & Translation — SunahMuslim"}],["$","meta","1",{"name":"description","content":"\"قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن ...\" — \"Mereka berkata, \"Apakah kedatanganmu kepada kami, agar kami hanya menyembah Allah saja dan meninggalkan apa yang biasa disembah oleh ne...\" (Quran 7:70). Read online with authentic Madinah typography, verified translations, and audio."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"Surah Al-A'raf verse 70,Quran 7:70"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]}],"$L2a"]}],"isPartial":"$@2b","staleTime":"$9","varyParams":null},{"rsc":"$L2c","isPartial":"$@2d","staleTime":"$9","varyParams":"$2e"},{"rsc":"$L2f","isPartial":"$@30","staleTime":"$9","varyParams":"$2e"},{"rsc":"$L31","isPartial":"$@32","staleTime":"$9","varyParams":"$2e"},{"rsc":"$L33","isPartial":"$@34","staleTime":"$9","varyParams":"$2e"}],"isUpgradeableISRFallback":false,"a":"$@35","rootVaryParams":null,"needsRuntimeRequest":"$@36"}
+37:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+38:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+39:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+7:null
+c:["$","meta","10",{"name":"category","content":"Lifestyle"}]
+d:["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/en/quran/7/70/"}]
+e:["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/quran/7/70/"}]
+f:["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/quran/7/70/"}]
+10:["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/quran/7/70/"}]
+11:["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/quran/7/70/"}]
+12:["$","meta","16",{"property":"og:title","content":"Surah Al-A'raf Verse 70 — Arabic Text & Translation — SunahMuslim"}]
+13:["$","meta","17",{"property":"og:description","content":"\"قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن ...\" — \"Mereka berkata, \"Apakah kedatanganmu kepada kami, agar kami hanya menyembah Allah saja dan meninggalkan apa yang biasa disembah oleh ne...\" (Quran 7:70). Read online with authentic Madinah typography, verified translations, and audio."}]
+14:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/en/quran/7/70/"}]
+15:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+16:["$","meta","20",{"property":"og:locale","content":"en_US"}]
+17:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+18:["$","meta","22",{"property":"og:image:width","content":"1200"}]
+19:["$","meta","23",{"property":"og:image:height","content":"630"}]
+1a:["$","meta","24",{"property":"og:image:alt","content":"Surah Al-A'raf Ayat 70"}]
+1b:["$","meta","25",{"property":"og:locale:alternate","content":"id_ID"}]
+1c:["$","meta","26",{"property":"og:locale:alternate","content":"en_US"}]
+1d:["$","meta","27",{"property":"og:locale:alternate","content":"ar_SA"}]
+1e:["$","meta","28",{"property":"og:type","content":"article"}]
+1f:["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}]
+20:["$","meta","30",{"name":"twitter:title","content":"Surah Al-A'raf Verse 70 — Arabic Text & Translation — SunahMuslim"}]
+21:["$","meta","31",{"name":"twitter:description","content":"\"قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن ...\" — \"Mereka berkata, \"Apakah kedatanganmu kepada kami, agar kami hanya menyembah Allah saja dan meninggalkan apa yang biasa disembah oleh ne...\" (Quran 7:70). Read online with authentic Madinah typography, verified translations, and audio."}]
+22:["$","meta","32",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+23:["$","link","33",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+24:["$","link","34",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+25:["$","link","35",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+26:["$","link","36",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+27:["$","link","37",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+28:["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+29:["$","$L37","39",{}]
+2a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2c:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+2f:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+31:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+33:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+36:true
+9:300
+9:C
+35:0
+2d:"$undefined"
+30:"$undefined"
+32:"$undefined"
+34:"$undefined"
+8:"$undefined"
+2b:"$undefined"

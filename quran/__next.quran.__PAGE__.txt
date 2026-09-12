@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[43807,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/3f4qffuu3e0i3.js","/_next/static/chunks/0dbk1xol_4p93.js"],"QuranLandingPageClient"]
+3:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+9:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+7:X
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https://sunahmuslim.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Al-Qur'an 30 Juz\",\"item\":\"https://sunahmuslim.com/quran/\"}]},{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://sunahmuslim.com/quran/#webpage\",\"url\":\"https://sunahmuslim.com/quran/\",\"name\":\"Al-Qur'an 30 Juz Online Lengkap — SunahMuslim\",\"headline\":\"Al-Qur'an 30 Juz Online Lengkap (Rasm Madinah & Tajwid Berwarna)\",\"description\":\"Baca Al-Qur'an 30 Juz online dengan rasm Mushaf Madinah asli, IndoPak 15 baris, tajwid berwarna, kata per kata, dan audio murottal resmi bebas iklan.\",\"inLanguage\":\"id\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"SunahMuslim\",\"url\":\"https://sunahmuslim.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://sunahmuslim.com/logo.png\"}}}]"}}],["$","$L2",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/3f4qffuu3e0i3.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0dbk1xol_4p93.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Al-Qur'an 30 Juz Online (Rasm Madinah & Tajwid) — SunahMuslim"}],["$","meta","1",{"name":"description","content":"Baca Al-Qur'an 30 Juz online dengan rasm Mushaf Madinah asli, IndoPak 15 baris, tajwid berwarna, kata per kata, dan audio murottal resmi bebas iklan."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"al quran online,baca quran 30 juz,quran rasm madinah,tajwid berwarna online,al quran kemenag,quran bebas iklan,murottal quran 30 juz"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"Lifestyle"}],["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/quran/"}],["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/quran/"}],["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/quran/"}],["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/quran/"}],["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/quran/"}],["$","meta","16",{"property":"og:title","content":"Al-Qur'an 30 Juz Online (Rasm Madinah & Tajwid) — SunahMuslim"}],["$","meta","17",{"property":"og:description","content":"Baca Al-Qur'an 30 Juz online dengan rasm Mushaf Madinah asli, IndoPak 15 baris, tajwid berwarna, kata per kata, dan audio murottal resmi bebas iklan."}],["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/quran/"}],["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}],["$","meta","20",{"property":"og:locale","content":"id_ID"}],["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}],["$","meta","22",{"property":"og:image:width","content":"1200"}],["$","meta","23",{"property":"og:image:height","content":"630"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]}],"$L19"]}],"isPartial":"$@1a","staleTime":"$7","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+20:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+21:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+5:null
+a:["$","meta","24",{"property":"og:image:alt","content":"Al-Qur'an 30 Juz Online SunahMuslim"}]
+b:["$","meta","25",{"property":"og:locale:alternate","content":"en_US"}]
+c:["$","meta","26",{"property":"og:locale:alternate","content":"ar_SA"}]
+d:["$","meta","27",{"property":"og:type","content":"website"}]
+e:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+f:["$","meta","29",{"name":"twitter:title","content":"Al-Qur'an 30 Juz Online (Rasm Madinah & Tajwid) — SunahMuslim"}]
+10:["$","meta","30",{"name":"twitter:description","content":"Baca Al-Qur'an 30 Juz online rasm Madinah, tajwid berwarna, dan audio murottal bebas iklan."}]
+11:["$","meta","31",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+12:["$","link","32",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+13:["$","link","33",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+14:["$","link","34",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+15:["$","link","35",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+16:["$","link","36",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+17:["$","link","37",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+18:["$","$L1f","38",{}]
+19:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1b:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+1e:true
+7:300
+7:C
+1d:0
+1a:"$undefined"
+1c:"$undefined"
+6:"$undefined"

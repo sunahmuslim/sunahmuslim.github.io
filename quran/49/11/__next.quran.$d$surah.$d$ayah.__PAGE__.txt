@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+3:"$Sreact.suspense"
+4:I[8513,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/1h32jvwvt-f6r.js","/_next/static/chunks/0dbk1xol_4p93.js"],"QuranLandingIndex"]
+5:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+9:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+a:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+2:T865,[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda","item":"https://sunahmuslim.com/"},{"@type":"ListItem","position":2,"name":"Al-Qur'an","item":"https://sunahmuslim.com/quran/"},{"@type":"ListItem","position":3,"name":"Surah Al-Hujurat","item":"https://sunahmuslim.com/quran/49/"},{"@type":"ListItem","position":4,"name":"Ayat 11","item":"https://sunahmuslim.com/quran/49/11/"}]},{"@context":"https://schema.org","@type":"Article","@id":"https://sunahmuslim.com/quran/49/11/#article","url":"https://sunahmuslim.com/quran/49/11/","headline":"Surah Al-Hujurat : 11","description":"\"يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مّ...\" — \"Wahai orang-orang yang beriman! Janganlah suatu kaum mengolok-olok kaum yang lain, (karena) boleh jadi mereka (yang diperolok-olokkan) ...\" (QS. Al-Hujurat: 11). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim.","articleBody":"يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ","inLanguage":"id","isPartOf":{"@type":"WebPage","@id":"https://sunahmuslim.com/quran/49/#webpage","url":"https://sunahmuslim.com/quran/49/","name":"Surah Al-Hujurat"},"publisher":{"@type":"Organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":{"@type":"ImageObject","url":"https://sunahmuslim.com/logo.png"}}}]8:X
+30:X
+30:C
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$3",null,{"fallback":["$","div",null,{"className":"quran-page-wrap","children":["$","div",null,{"className":"quran-container py-16 text-center text-gray-400","children":["Memuat Surah ",49," Ayat ",11,"..."]}]}],"children":["$","div",null,{"className":"quran-page-wrap","children":["$","$L4",null,{"initialSurahNumber":49,"initialAyahNumber":11,"singleAyahMode":true}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1h32jvwvt-f6r.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0dbk1xol_4p93.js","async":true}]],["$","$L5",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Surah Al-Hujurat Ayat 11 — Teks Arab & Terjemahan — SunahMuslim"}],["$","meta","1",{"name":"description","content":"\"يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مّ...\" — \"Wahai orang-orang yang beriman! Janganlah suatu kaum mengolok-olok kaum yang lain, (karena) boleh jadi mereka (yang diperolok-olokkan) ...\" (QS. Al-Hujurat: 11). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"surah al-hujurat ayat 11,al-quran 49:11"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}]}]}],"$L2c"]}],"isPartial":"$@2d","staleTime":"$8","varyParams":null},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$8","varyParams":"$30"},{"rsc":"$L31","isPartial":"$@32","staleTime":"$8","varyParams":"$30"},{"rsc":"$L33","isPartial":"$@34","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@35","rootVaryParams":null,"needsRuntimeRequest":"$@36"}
+37:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+38:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+39:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+6:null
+b:["$","meta","6",{"name":"creator","content":"SunahMuslim"}]
+c:["$","meta","7",{"name":"publisher","content":"SunahMuslim"}]
+d:["$","meta","8",{"name":"robots","content":"index, follow"}]
+e:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+f:["$","meta","10",{"name":"category","content":"Lifestyle"}]
+10:["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/quran/49/11/"}]
+11:["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/quran/49/11/"}]
+12:["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/quran/49/11/"}]
+13:["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/quran/49/11/"}]
+14:["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/quran/49/11/"}]
+15:["$","meta","16",{"property":"og:title","content":"Surah Al-Hujurat Ayat 11 — Teks Arab & Terjemahan — SunahMuslim"}]
+16:["$","meta","17",{"property":"og:description","content":"\"يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مّ...\" — \"Wahai orang-orang yang beriman! Janganlah suatu kaum mengolok-olok kaum yang lain, (karena) boleh jadi mereka (yang diperolok-olokkan) ...\" (QS. Al-Hujurat: 11). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim."}]
+17:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/quran/49/11/"}]
+18:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+19:["$","meta","20",{"property":"og:locale","content":"id_ID"}]
+1a:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+1b:["$","meta","22",{"property":"og:image:width","content":"1200"}]
+1c:["$","meta","23",{"property":"og:image:height","content":"630"}]
+1d:["$","meta","24",{"property":"og:image:alt","content":"Surah Al-Hujurat Ayat 11"}]
+1e:["$","meta","25",{"property":"og:locale:alternate","content":"en_US"}]
+1f:["$","meta","26",{"property":"og:locale:alternate","content":"ar_SA"}]
+20:["$","meta","27",{"property":"og:type","content":"article"}]
+21:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+22:["$","meta","29",{"name":"twitter:title","content":"Surah Al-Hujurat Ayat 11 — Teks Arab & Terjemahan — SunahMuslim"}]
+23:["$","meta","30",{"name":"twitter:description","content":"\"يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مّ...\" — \"Wahai orang-orang yang beriman! Janganlah suatu kaum mengolok-olok kaum yang lain, (karena) boleh jadi mereka (yang diperolok-olokkan) ...\" (QS. Al-Hujurat: 11). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim."}]
+24:["$","meta","31",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+25:["$","link","32",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+26:["$","link","33",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+27:["$","link","34",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+28:["$","link","35",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+29:["$","link","36",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+2a:["$","link","37",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2b:["$","$L37","38",{}]
+2c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2e:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+31:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+33:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+36:true
+8:300
+8:C
+35:0
+2f:"$undefined"
+32:"$undefined"
+34:"$undefined"
+7:"$undefined"
+2d:"$undefined"

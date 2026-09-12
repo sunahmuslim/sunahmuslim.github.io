@@ -1,0 +1,586 @@
+[
+  {
+    "surahNumber": 113,
+    "ayahNumber": 1,
+    "ayahNumberGlobal": 6226,
+    "textUthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "textIndoPak": "قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "Katakanlah, \"Aku berlindung kepada Tuhan yang menguasai subuh (fajar),",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "قُلْ",
+        "textIndoPak": "قُلۡ",
+        "codeV1": "ﭤ",
+        "codeV2": "ﱔ",
+        "code_v1": "ﭤ",
+        "code_v2": "ﱔ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "qul",
+        "translation": {
+          "id": "katakanlah",
+          "en": "katakanlah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_001_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "أَعُوذُ",
+        "textIndoPak": "اَعُوۡذُ",
+        "codeV1": "ﭥ",
+        "codeV2": "ﱕ",
+        "code_v1": "ﭥ",
+        "code_v2": "ﱕ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "aʿūdhu",
+        "translation": {
+          "id": "aku berlindung",
+          "en": "aku berlindung",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_001_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "بِرَبِّ",
+        "textIndoPak": "بِرَبِّ",
+        "codeV1": "ﭦ",
+        "codeV2": "ﱖ",
+        "code_v1": "ﭦ",
+        "code_v2": "ﱖ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "birabbi",
+        "translation": {
+          "id": "Tuhan/Pemelihara",
+          "en": "Tuhan/Pemelihara",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_001_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "ٱلْفَلَقِ",
+        "textIndoPak": "الۡفَلَقِۙ‏",
+        "codeV1": "ﭧ",
+        "codeV2": "ﱗ",
+        "code_v1": "ﭧ",
+        "code_v2": "ﱗ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-falaqi",
+        "translation": {
+          "id": "subuh",
+          "en": "subuh",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_001_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "١",
+        "textIndoPak": "١",
+        "codeV1": "ﭨ",
+        "codeV2": "ﱘ",
+        "code_v1": "ﭨ",
+        "code_v2": "ﱘ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(1)",
+          "en": "(1)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 113,
+    "ayahNumber": 2,
+    "ayahNumberGlobal": 6227,
+    "textUthmani": "مِن شَرِّ مَا خَلَقَ",
+    "textIndoPak": "مِنۡ شَرِّ مَا خَلَقَۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "dari kejahatan (makhluk yang) Dia ciptakan,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "مِن",
+        "textIndoPak": "مِنۡ",
+        "codeV1": "ﭩ",
+        "codeV2": "ﱙ",
+        "code_v1": "ﭩ",
+        "code_v2": "ﱙ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "min",
+        "translation": {
+          "id": "dari",
+          "en": "dari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_002_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "شَرِّ",
+        "textIndoPak": "شَرِّ",
+        "codeV1": "ﭪ",
+        "codeV2": "ﱚ",
+        "code_v1": "ﭪ",
+        "code_v2": "ﱚ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "sharri",
+        "translation": {
+          "id": "kejahatan",
+          "en": "kejahatan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_002_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "مَا",
+        "textIndoPak": "مَا",
+        "codeV1": "ﭫ",
+        "codeV2": "ﱛ",
+        "code_v1": "ﭫ",
+        "code_v2": "ﱛ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "mā",
+        "translation": {
+          "id": "apa",
+          "en": "apa",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_002_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "خَلَقَ",
+        "textIndoPak": "خَلَقَۙ‏",
+        "codeV1": "ﭬ",
+        "codeV2": "ﱜ",
+        "code_v1": "ﭬ",
+        "code_v2": "ﱜ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "khalaqa",
+        "translation": {
+          "id": "Dia ciptakan",
+          "en": "Dia ciptakan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_002_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "٢",
+        "textIndoPak": "٢",
+        "codeV1": "ﭭ",
+        "codeV2": "ﱝ",
+        "code_v1": "ﭭ",
+        "code_v2": "ﱝ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(2)",
+          "en": "(2)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 113,
+    "ayahNumber": 3,
+    "ayahNumberGlobal": 6228,
+    "textUthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "textIndoPak": "وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "dan dari kejahatan malam apabila telah gelap gulita,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "وَمِن",
+        "textIndoPak": "وَمِنۡ",
+        "codeV1": "ﭮ",
+        "codeV2": "ﱞ",
+        "code_v1": "ﭮ",
+        "code_v2": "ﱞ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "wamin",
+        "translation": {
+          "id": "dan dari",
+          "en": "dan dari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_003_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "شَرِّ",
+        "textIndoPak": "شَرِّ",
+        "codeV1": "ﭯ",
+        "codeV2": "ﱟ",
+        "code_v1": "ﭯ",
+        "code_v2": "ﱟ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "sharri",
+        "translation": {
+          "id": "kejahatan",
+          "en": "kejahatan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_003_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "غَاسِقٍ",
+        "textIndoPak": "غَاسِقٍ",
+        "codeV1": "ﭰ",
+        "codeV2": "ﱠ",
+        "code_v1": "ﭰ",
+        "code_v2": "ﱠ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ghāsiqin",
+        "translation": {
+          "id": "malam yang gelap",
+          "en": "malam yang gelap",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_003_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "إِذَا",
+        "textIndoPak": "اِذَا",
+        "codeV1": "ﭱ",
+        "codeV2": "ﱡ",
+        "code_v1": "ﭱ",
+        "code_v2": "ﱡ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "idhā",
+        "translation": {
+          "id": "apabila",
+          "en": "apabila",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_003_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "وَقَبَ",
+        "textIndoPak": "وَقَبَۙ‏",
+        "codeV1": "ﭲ",
+        "codeV2": "ﱢ",
+        "code_v1": "ﭲ",
+        "code_v2": "ﱢ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "waqaba",
+        "translation": {
+          "id": "telah gelap/kelam",
+          "en": "telah gelap/kelam",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_003_005.mp3"
+      },
+      {
+        "position": 6,
+        "textUthmani": "٣",
+        "textIndoPak": "٣",
+        "codeV1": "ﭳ",
+        "codeV2": "ﱣ",
+        "code_v1": "ﭳ",
+        "code_v2": "ﱣ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(3)",
+          "en": "(3)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 113,
+    "ayahNumber": 4,
+    "ayahNumberGlobal": 6229,
+    "textUthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+    "textIndoPak": "وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "وَمِن",
+        "textIndoPak": "وَمِنۡ",
+        "codeV1": "ﭴ",
+        "codeV2": "ﱤ",
+        "code_v1": "ﭴ",
+        "code_v2": "ﱤ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "wamin",
+        "translation": {
+          "id": "dan dari",
+          "en": "dan dari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_004_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "شَرِّ",
+        "textIndoPak": "شَرِّ",
+        "codeV1": "ﭵ",
+        "codeV2": "ﱥ",
+        "code_v1": "ﭵ",
+        "code_v2": "ﱥ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "sharri",
+        "translation": {
+          "id": "kejahatan",
+          "en": "kejahatan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_004_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "ٱلنَّفَّـٰثَـٰتِ",
+        "textIndoPak": "النَّفّٰثٰتِ",
+        "codeV1": "ﭶ",
+        "codeV2": "ﱦ",
+        "code_v1": "ﭶ",
+        "code_v2": "ﱦ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-nafāthāti",
+        "translation": {
+          "id": "orang yang meniup-niup",
+          "en": "orang yang meniup-niup",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_004_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "فِى",
+        "textIndoPak": "فِى",
+        "codeV1": "ﭷ",
+        "codeV2": "ﱧ",
+        "code_v1": "ﭷ",
+        "code_v2": "ﱧ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "fī",
+        "translation": {
+          "id": "dalam",
+          "en": "dalam",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_004_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "ٱلْعُقَدِ",
+        "textIndoPak": "الۡعُقَدِۙ‏",
+        "codeV1": "ﭸ",
+        "codeV2": "ﱨ",
+        "code_v1": "ﭸ",
+        "code_v2": "ﱨ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-ʿuqadi",
+        "translation": {
+          "id": "ikatan/simpul",
+          "en": "ikatan/simpul",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_004_005.mp3"
+      },
+      {
+        "position": 6,
+        "textUthmani": "٤",
+        "textIndoPak": "٤",
+        "codeV1": "ﭹ",
+        "codeV2": "ﱩ",
+        "code_v1": "ﭹ",
+        "code_v2": "ﱩ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(4)",
+          "en": "(4)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 113,
+    "ayahNumber": 5,
+    "ayahNumberGlobal": 6230,
+    "textUthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "textIndoPak": "وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "dan dari kejahatan orang yang dengki apabila dia dengki.\"",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "وَمِن",
+        "textIndoPak": "وَمِنۡ",
+        "codeV1": "ﭺ",
+        "codeV2": "ﱪ",
+        "code_v1": "ﭺ",
+        "code_v2": "ﱪ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "wamin",
+        "translation": {
+          "id": "dan dari",
+          "en": "dan dari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_005_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "شَرِّ",
+        "textIndoPak": "شَرِّ",
+        "codeV1": "ﭻ",
+        "codeV2": "ﱫ",
+        "code_v1": "ﭻ",
+        "code_v2": "ﱫ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "sharri",
+        "translation": {
+          "id": "kejahatan",
+          "en": "kejahatan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_005_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "حَاسِدٍ",
+        "textIndoPak": "حَاسِدٍ",
+        "codeV1": "ﭼ",
+        "codeV2": "ﱬ",
+        "code_v1": "ﭼ",
+        "code_v2": "ﱬ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ḥāsidin",
+        "translation": {
+          "id": "orang yang dengki",
+          "en": "orang yang dengki",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_005_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "إِذَا",
+        "textIndoPak": "اِذَا",
+        "codeV1": "ﭽ",
+        "codeV2": "ﱭ",
+        "code_v1": "ﭽ",
+        "code_v2": "ﱭ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "idhā",
+        "translation": {
+          "id": "apabila",
+          "en": "apabila",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_005_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "حَسَدَ",
+        "textIndoPak": "حَسَدَ‏",
+        "codeV1": "ﭾ",
+        "codeV2": "ﱮ",
+        "code_v1": "ﭾ",
+        "code_v2": "ﱮ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ḥasada",
+        "translation": {
+          "id": "ia dengki",
+          "en": "ia dengki",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/113_005_005.mp3"
+      },
+      {
+        "position": 6,
+        "textUthmani": "٥",
+        "textIndoPak": "٥",
+        "codeV1": "ﭿ",
+        "codeV2": "ﱯ",
+        "code_v1": "ﭿ",
+        "code_v2": "ﱯ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(5)",
+          "en": "(5)",
+          "ar": ""
+        }
+      }
+    ]
+  }
+]

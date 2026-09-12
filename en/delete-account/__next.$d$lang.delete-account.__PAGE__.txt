@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[51443,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2jobvdu36elu9.js"],"LanguageSync"]
+3:I[57669,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2jobvdu36elu9.js"],"DeleteAccountView"]
+4:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+a:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+8:X
+b:T64d,jadwal sholat tanpa iklan,aplikasi jadwal sholat offline,jadwal sholat hari ini di lokasi saya,jadwal sholat disini,jadwal sholat hari ini,jadwal waktu sholat,jadwal imsakiyah ramadhan 2026,waktu sholat tahajjud,alarm adzan otomatis,al quran 30 juz terjemahan,dzikir pagi petang shahih,arah kiblat tanpa internet,pengingat waktu shalat,jadwal sholat jakarta,jadwal sholat surabaya,jadwal sholat bandung,islamic prayer times,prayer times near me,prayer times today,muslim prayer times,best muslim prayer app,free muslim prayer app,best adhan app,ad free prayer times app,offline prayer times app,offline quran app,the holy quran english translation,qibla direction finder,qibla finder compass,offline qibla direction,authentic morning evening adhkar,ramadan 2026 prayer times,ramadan prayer times,tahajjud prayer time,sunnah muslim,sunnahmuslim,sunnah habits,sunnah daily timeline,prophetic sunnah routine,ahlus sunnah wal jamaah,sunnah prayer times,sunnah offline companion,sahih hadith takhrij albani,4 madzhab comparative fiqh,sunah muslim,sunahmuslim,sunah nabi,panduan sunnah 24 jam,linimasa ibadah nabi,jadwal sholat offline,waktu sholat akurat,arah kiblat falak,takhrij hadits shahih,hadits shahih bukhari muslim albani,fiqih 4 madzhab,komparasi madzhab fiqih,mutabaah yaumiyah,manhaj salafus shalih,سنة مسلم,مواقيت الصلاة بدون نت,أذان بدون إعلانات,القرآن الكريم بدون إنترنت,أذكار الصباح والمساء الصحيحة,سنن النبي اليومية,مواقيت الصلاة الدقيقة,تخريج الأحاديث الصحيحة32:X
+32:C
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://sunahmuslim.com/en/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Account Deletion\",\"item\":\"https://sunahmuslim.com/en/delete-account/\"}]},{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://sunahmuslim.com/en/delete-account/#webpage\",\"url\":\"https://sunahmuslim.com/en/delete-account/\",\"name\":\"Account & Data Deletion Request — SunahMuslim\",\"description\":\"Instructions and portal for requesting user account and personal data deletion for SunahMuslim in compliance with Google Play Developer Policy and data privacy regulations.\",\"inLanguage\":\"en\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"SunahMuslim\",\"url\":\"https://sunahmuslim.com\",\"logo\":\"https://sunahmuslim.com/logo.png\"}}]"}}],["$","$L2",null,{"lang":"en"}],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/2jobvdu36elu9.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Account & Data Deletion Request — SunahMuslim"}],["$","meta","1",{"name":"description","content":"Instructions and portal for requesting user account and personal data deletion for SunahMuslim in compliance with Google Play Developer Policy and data privacy regulations."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"$b"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]}]}]}],"$L2e"]}],"isPartial":"$@2f","staleTime":"$8","varyParams":null},{"rsc":"$L30","isPartial":"$@31","staleTime":"$8","varyParams":"$32"},{"rsc":"$L33","isPartial":"$@34","staleTime":"$8","varyParams":"$32"}],"isUpgradeableISRFallback":false,"a":"$@35","rootVaryParams":null,"needsRuntimeRequest":"$@36"}
+37:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+38:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+39:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+6:null
+c:["$","meta","6",{"name":"creator","content":"SunahMuslim"}]
+d:["$","meta","7",{"name":"publisher","content":"SunahMuslim"}]
+e:["$","meta","8",{"name":"robots","content":"index, follow"}]
+f:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+10:["$","meta","10",{"name":"category","content":"Lifestyle"}]
+11:["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/en/delete-account/"}]
+12:["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/delete-account/"}]
+13:["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/delete-account/"}]
+14:["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/delete-account/"}]
+15:["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/delete-account/"}]
+16:["$","meta","16",{"property":"og:title","content":"Account & Data Deletion Request — SunahMuslim"}]
+17:["$","meta","17",{"property":"og:description","content":"Instructions and portal for requesting user account and personal data deletion for SunahMuslim in compliance with Google Play Developer Policy and data privacy regulations."}]
+18:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/en/delete-account/"}]
+19:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+1a:["$","meta","20",{"property":"og:locale","content":"en_US"}]
+1b:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+1c:["$","meta","22",{"property":"og:image:width","content":"512"}]
+1d:["$","meta","23",{"property":"og:image:height","content":"512"}]
+1e:["$","meta","24",{"property":"og:image:alt","content":"SunahMuslim Official Logo"}]
+1f:["$","meta","25",{"property":"og:locale:alternate","content":"id_ID"}]
+20:["$","meta","26",{"property":"og:locale:alternate","content":"en_US"}]
+21:["$","meta","27",{"property":"og:locale:alternate","content":"ar_SA"}]
+22:["$","meta","28",{"property":"og:type","content":"article"}]
+23:["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}]
+24:["$","meta","30",{"name":"twitter:title","content":"Account & Data Deletion Request — SunahMuslim"}]
+25:["$","meta","31",{"name":"twitter:description","content":"Instructions and portal for requesting user account and personal data deletion for SunahMuslim in compliance with Google Play Developer Policy and data privacy regulations."}]
+26:["$","meta","32",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+27:["$","link","33",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+28:["$","link","34",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+29:["$","link","35",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+2a:["$","link","36",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+2b:["$","link","37",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+2c:["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2d:["$","$L37","39",{}]
+2e:["$","meta",null,{"name":"next-size-adjust","content":""}]
+30:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+33:["$","$1","c",{"children":[null,["$","$L38",null,{"parallelRouterKey":"children","template":["$","$L39",null,{}]}]]}]
+36:true
+8:300
+8:C
+35:0
+31:"$undefined"
+34:"$undefined"
+7:"$undefined"
+2f:"$undefined"

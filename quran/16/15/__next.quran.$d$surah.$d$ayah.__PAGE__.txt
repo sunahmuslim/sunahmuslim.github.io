@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+3:"$Sreact.suspense"
+4:I[8513,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/1h32jvwvt-f6r.js","/_next/static/chunks/0dbk1xol_4p93.js"],"QuranLandingIndex"]
+5:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+9:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+a:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+2:T65c,[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda","item":"https://sunahmuslim.com/"},{"@type":"ListItem","position":2,"name":"Al-Qur'an","item":"https://sunahmuslim.com/quran/"},{"@type":"ListItem","position":3,"name":"Surah An-Nahl","item":"https://sunahmuslim.com/quran/16/"},{"@type":"ListItem","position":4,"name":"Ayat 15","item":"https://sunahmuslim.com/quran/16/15/"}]},{"@context":"https://schema.org","@type":"Article","@id":"https://sunahmuslim.com/quran/16/15/#article","url":"https://sunahmuslim.com/quran/16/15/","headline":"Surah An-Nahl : 15","description":"\"وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ\" — \"Dan Dia menancapkan gunung di bumi agar bumi itu tidak goncang bersama kamu, (dan Dia menciptakan) sungai-sungai dan jalan-jalan agar k...\" (QS. An-Nahl: 15). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim.","articleBody":"وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ","inLanguage":"id","isPartOf":{"@type":"WebPage","@id":"https://sunahmuslim.com/quran/16/#webpage","url":"https://sunahmuslim.com/quran/16/","name":"Surah An-Nahl"},"publisher":{"@type":"Organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":{"@type":"ImageObject","url":"https://sunahmuslim.com/logo.png"}}}]8:X
+2a:X
+2a:C
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$3",null,{"fallback":["$","div",null,{"className":"quran-page-wrap","children":["$","div",null,{"className":"quran-container py-16 text-center text-gray-400","children":["Memuat Surah ",16," Ayat ",15,"..."]}]}],"children":["$","div",null,{"className":"quran-page-wrap","children":["$","$L4",null,{"initialSurahNumber":16,"initialAyahNumber":15,"singleAyahMode":true}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1h32jvwvt-f6r.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0dbk1xol_4p93.js","async":true}]],["$","$L5",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Surah An-Nahl Ayat 15 — Teks Arab & Terjemahan — SunahMuslim"}],["$","meta","1",{"name":"description","content":"\"وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ\" — \"Dan Dia menancapkan gunung di bumi agar bumi itu tidak goncang bersama kamu, (dan Dia menciptakan) sungai-sungai dan jalan-jalan agar k...\" (QS. An-Nahl: 15). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"surah an-nahl ayat 15,al-quran 16:15"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"Lifestyle"}],["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/quran/16/15/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]}],"$L26"]}],"isPartial":"$@27","staleTime":"$8","varyParams":null},{"rsc":"$L28","isPartial":"$@29","staleTime":"$8","varyParams":"$2a"},{"rsc":"$L2b","isPartial":"$@2c","staleTime":"$8","varyParams":"$2a"},{"rsc":"$L2d","isPartial":"$@2e","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@2f","rootVaryParams":null,"needsRuntimeRequest":"$@30"}
+31:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+32:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+33:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+6:null
+b:["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/quran/16/15/"}]
+c:["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/quran/16/15/"}]
+d:["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/quran/16/15/"}]
+e:["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/quran/16/15/"}]
+f:["$","meta","16",{"property":"og:title","content":"Surah An-Nahl Ayat 15 — Teks Arab & Terjemahan — SunahMuslim"}]
+10:["$","meta","17",{"property":"og:description","content":"\"وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ\" — \"Dan Dia menancapkan gunung di bumi agar bumi itu tidak goncang bersama kamu, (dan Dia menciptakan) sungai-sungai dan jalan-jalan agar k...\" (QS. An-Nahl: 15). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim."}]
+11:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/quran/16/15/"}]
+12:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+13:["$","meta","20",{"property":"og:locale","content":"id_ID"}]
+14:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+15:["$","meta","22",{"property":"og:image:width","content":"1200"}]
+16:["$","meta","23",{"property":"og:image:height","content":"630"}]
+17:["$","meta","24",{"property":"og:image:alt","content":"Surah An-Nahl Ayat 15"}]
+18:["$","meta","25",{"property":"og:locale:alternate","content":"en_US"}]
+19:["$","meta","26",{"property":"og:locale:alternate","content":"ar_SA"}]
+1a:["$","meta","27",{"property":"og:type","content":"article"}]
+1b:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","29",{"name":"twitter:title","content":"Surah An-Nahl Ayat 15 — Teks Arab & Terjemahan — SunahMuslim"}]
+1d:["$","meta","30",{"name":"twitter:description","content":"\"وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ\" — \"Dan Dia menancapkan gunung di bumi agar bumi itu tidak goncang bersama kamu, (dan Dia menciptakan) sungai-sungai dan jalan-jalan agar k...\" (QS. An-Nahl: 15). Baca selengkapnya dengan rasm Madinah dan audio murottal di SunahMuslim."}]
+1e:["$","meta","31",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+1f:["$","link","32",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+20:["$","link","33",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+21:["$","link","34",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+22:["$","link","35",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+23:["$","link","36",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+24:["$","link","37",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+25:["$","$L31","38",{}]
+26:["$","meta",null,{"name":"next-size-adjust","content":""}]
+28:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+2b:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+2d:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+30:true
+8:300
+8:C
+2f:0
+29:"$undefined"
+2c:"$undefined"
+2e:"$undefined"
+7:"$undefined"
+27:"$undefined"

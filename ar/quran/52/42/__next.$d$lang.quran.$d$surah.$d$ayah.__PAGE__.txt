@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+3:I[51443,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2w7r4_tpp_4js.js","/_next/static/chunks/0dbk1xol_4p93.js"],"LanguageSync"]
+4:"$Sreact.suspense"
+5:I[8513,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2w7r4_tpp_4js.js","/_next/static/chunks/0dbk1xol_4p93.js"],"QuranLandingIndex"]
+6:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+a:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+b:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+2:T5cd,[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://sunahmuslim.com/ar/"},{"@type":"ListItem","position":2,"name":"القرآن الكريم","item":"https://sunahmuslim.com/ar/quran/"},{"@type":"ListItem","position":3,"name":"Surah At-Tur","item":"https://sunahmuslim.com/ar/quran/52/"},{"@type":"ListItem","position":4,"name":"Ayat 42","item":"https://sunahmuslim.com/ar/quran/52/42/"}]},{"@context":"https://schema.org","@type":"Article","@id":"https://sunahmuslim.com/ar/quran/52/42/#article","url":"https://sunahmuslim.com/ar/quran/52/42/","headline":"Surah At-Tur : 42","description":"\"أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ\" — سورة الطور الآية 42. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية.","articleBody":"أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ","inLanguage":"ar","isPartOf":{"@type":"WebPage","@id":"https://sunahmuslim.com/ar/quran/52/#webpage","url":"https://sunahmuslim.com/ar/quran/52/","name":"Surah At-Tur"},"publisher":{"@type":"Organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":{"@type":"ImageObject","url":"https://sunahmuslim.com/logo.png"}}}]9:X
+28:X
+28:C
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"lang":"ar"}],["$","$4",null,{"fallback":["$","div",null,{"className":"quran-page-wrap","children":["$","div",null,{"className":"quran-container py-16 text-center text-gray-400","children":["Memuat Surah ",52," Ayat ",42,"..."]}]}],"children":["$","div",null,{"className":"quran-page-wrap","children":["$","$L5",null,{"initialSurahNumber":52,"initialAyahNumber":42,"singleAyahMode":true}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/2w7r4_tpp_4js.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0dbk1xol_4p93.js","async":true}]],["$","$L6",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"سورة الطور الآية 42 — الرسم العثماني — سنة مسلم"}],["$","meta","1",{"name":"description","content":"\"أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ\" — سورة الطور الآية 42. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"سورة الطور آية 42,تفسير سورة الطور 42"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"Lifestyle"}],["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/ar/quran/52/42/"}],["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/quran/52/42/"}],["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/quran/52/42/"}],["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/quran/52/42/"}],["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/quran/52/42/"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]}],"$L24"]}],"isPartial":"$@25","staleTime":"$9","varyParams":null},{"rsc":"$L26","isPartial":"$@27","staleTime":"$9","varyParams":"$28"},{"rsc":"$L29","isPartial":"$@2a","staleTime":"$9","varyParams":"$28"},{"rsc":"$L2b","isPartial":"$@2c","staleTime":"$9","varyParams":"$28"},{"rsc":"$L2d","isPartial":"$@2e","staleTime":"$9","varyParams":"$28"}],"isUpgradeableISRFallback":false,"a":"$@2f","rootVaryParams":null,"needsRuntimeRequest":"$@30"}
+31:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+32:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+33:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+7:null
+c:["$","meta","16",{"property":"og:title","content":"سورة الطور الآية 42 — الرسم العثماني — سنة مسلم"}]
+d:["$","meta","17",{"property":"og:description","content":"\"أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ\" — سورة الطور الآية 42. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية."}]
+e:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/ar/quran/52/42/"}]
+f:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+10:["$","meta","20",{"property":"og:locale","content":"ar_SA"}]
+11:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+12:["$","meta","22",{"property":"og:image:width","content":"1200"}]
+13:["$","meta","23",{"property":"og:image:height","content":"630"}]
+14:["$","meta","24",{"property":"og:image:alt","content":"Surah At-Tur Ayat 42"}]
+15:["$","meta","25",{"property":"og:locale:alternate","content":"id_ID"}]
+16:["$","meta","26",{"property":"og:locale:alternate","content":"en_US"}]
+17:["$","meta","27",{"property":"og:locale:alternate","content":"ar_SA"}]
+18:["$","meta","28",{"property":"og:type","content":"article"}]
+19:["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}]
+1a:["$","meta","30",{"name":"twitter:title","content":"سورة الطور الآية 42 — الرسم العثماني — سنة مسلم"}]
+1b:["$","meta","31",{"name":"twitter:description","content":"\"أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ\" — سورة الطور الآية 42. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية."}]
+1c:["$","meta","32",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+1d:["$","link","33",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+1e:["$","link","34",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+1f:["$","link","35",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+20:["$","link","36",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+21:["$","link","37",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+22:["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+23:["$","$L31","39",{}]
+24:["$","meta",null,{"name":"next-size-adjust","content":""}]
+26:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+29:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+2b:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+2d:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+30:true
+9:300
+9:C
+2f:0
+25:"$undefined"
+27:"$undefined"
+2a:"$undefined"
+2c:"$undefined"
+2e:"$undefined"
+8:"$undefined"

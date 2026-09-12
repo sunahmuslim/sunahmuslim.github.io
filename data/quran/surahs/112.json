@@ -1,0 +1,408 @@
+[
+  {
+    "surahNumber": 112,
+    "ayahNumber": 1,
+    "ayahNumberGlobal": 6222,
+    "textUthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "textIndoPak": "قُلۡ هُوَ اللّٰهُ اَحَدٌ​ ۚ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "قُلْ",
+        "textIndoPak": "قُلۡ",
+        "codeV1": "ﭑ",
+        "codeV2": "ﱁ",
+        "code_v1": "ﭑ",
+        "code_v2": "ﱁ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "qul",
+        "translation": {
+          "id": "katakanlah",
+          "en": "katakanlah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_001_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "هُوَ",
+        "textIndoPak": "هُوَ",
+        "codeV1": "ﭒ",
+        "codeV2": "ﱂ",
+        "code_v1": "ﭒ",
+        "code_v2": "ﱂ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "huwa",
+        "translation": {
+          "id": "Dia",
+          "en": "Dia",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_001_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "ٱللَّهُ",
+        "textIndoPak": "اللّٰهُ",
+        "codeV1": "ﭓ",
+        "codeV2": "ﱃ",
+        "code_v1": "ﭓ",
+        "code_v2": "ﱃ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-lahu",
+        "translation": {
+          "id": "Allah",
+          "en": "Allah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_001_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "أَحَدٌ",
+        "textIndoPak": "اَحَدٌ​ ۚ‏",
+        "codeV1": "ﭔ",
+        "codeV2": "ﱄ",
+        "code_v1": "ﭔ",
+        "code_v2": "ﱄ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "aḥadun",
+        "translation": {
+          "id": "Esa",
+          "en": "Esa",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_001_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "١",
+        "textIndoPak": "١",
+        "codeV1": "ﭕ",
+        "codeV2": "ﱅ",
+        "code_v1": "ﭕ",
+        "code_v2": "ﱅ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(1)",
+          "en": "(1)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 112,
+    "ayahNumber": 2,
+    "ayahNumberGlobal": 6223,
+    "textUthmani": "ٱللَّهُ ٱلصَّمَدُ",
+    "textIndoPak": "اَللّٰهُ الصَّمَدُ​ ۚ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "Allah tempat meminta segala sesuatu.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "ٱللَّهُ",
+        "textIndoPak": "اَللّٰهُ",
+        "codeV1": "ﭖ",
+        "codeV2": "ﱆ",
+        "code_v1": "ﭖ",
+        "code_v2": "ﱆ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "al-lahu",
+        "translation": {
+          "id": "Allah",
+          "en": "Allah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_002_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلصَّمَدُ",
+        "textIndoPak": "الصَّمَدُ​ ۚ‏",
+        "codeV1": "ﭗ",
+        "codeV2": "ﱇ",
+        "code_v1": "ﭗ",
+        "code_v2": "ﱇ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-ṣamadu",
+        "translation": {
+          "id": "tempat bergantung",
+          "en": "tempat bergantung",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_002_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "٢",
+        "textIndoPak": "٢",
+        "codeV1": "ﭘ",
+        "codeV2": "ﱈ",
+        "code_v1": "ﭘ",
+        "code_v2": "ﱈ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(2)",
+          "en": "(2)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 112,
+    "ayahNumber": 3,
+    "ayahNumberGlobal": 6224,
+    "textUthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "textIndoPak": "لَمۡ يَلِدۡ   ۙ وَلَمۡ يُوۡلَدۡ ۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "(Allah) tidak beranak dan tidak pula diperanakkan.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "لَمْ",
+        "textIndoPak": "لَمۡ",
+        "codeV1": "ﭙ",
+        "codeV2": "ﱉ",
+        "code_v1": "ﭙ",
+        "code_v2": "ﱉ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "lam",
+        "translation": {
+          "id": "tidak",
+          "en": "tidak",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_003_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "يَلِدْ",
+        "textIndoPak": "يَلِدۡ   ۙ",
+        "codeV1": "ﭚ",
+        "codeV2": "ﱊ",
+        "code_v1": "ﭚ",
+        "code_v2": "ﱊ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "yalid",
+        "translation": {
+          "id": "beranak",
+          "en": "beranak",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_003_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "وَلَمْ",
+        "textIndoPak": "وَلَمۡ",
+        "codeV1": "ﭛ",
+        "codeV2": "ﱋ",
+        "code_v1": "ﭛ",
+        "code_v2": "ﱋ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "walam",
+        "translation": {
+          "id": "dan tidak",
+          "en": "dan tidak",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_003_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "يُولَدْ",
+        "textIndoPak": "يُوۡلَدۡ ۙ‏",
+        "codeV1": "ﭜ",
+        "codeV2": "ﱌ",
+        "code_v1": "ﭜ",
+        "code_v2": "ﱌ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "yūlad",
+        "translation": {
+          "id": "diperanakkan",
+          "en": "diperanakkan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_003_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "٣",
+        "textIndoPak": "٣",
+        "codeV1": "ﭝ",
+        "codeV2": "ﱍ",
+        "code_v1": "ﭝ",
+        "code_v2": "ﱍ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(3)",
+          "en": "(3)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 112,
+    "ayahNumber": 4,
+    "ayahNumberGlobal": 6225,
+    "textUthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "textIndoPak": "وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "Dan tidak ada sesuatu yang setara dengan Dia.\"",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "وَلَمْ",
+        "textIndoPak": "وَلَمۡ",
+        "codeV1": "ﭞ",
+        "codeV2": "ﱎ",
+        "code_v1": "ﭞ",
+        "code_v2": "ﱎ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "walam",
+        "translation": {
+          "id": "dan tidak",
+          "en": "dan tidak",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_004_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "يَكُن",
+        "textIndoPak": "يَكُنۡ",
+        "codeV1": "ﭟ",
+        "codeV2": "ﱏ",
+        "code_v1": "ﭟ",
+        "code_v2": "ﱏ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "yakun",
+        "translation": {
+          "id": "ada",
+          "en": "ada",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_004_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "لَّهُۥ",
+        "textIndoPak": "لَّهٗ",
+        "codeV1": "ﭠ",
+        "codeV2": "ﱐ",
+        "code_v1": "ﭠ",
+        "code_v2": "ﱐ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "lahu",
+        "translation": {
+          "id": "baginya",
+          "en": "baginya",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_004_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "كُفُوًا",
+        "textIndoPak": "كُفُوًا",
+        "codeV1": "ﭡ",
+        "codeV2": "ﱑ",
+        "code_v1": "ﭡ",
+        "code_v2": "ﱑ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "kufuwan",
+        "translation": {
+          "id": "menyamai/setara",
+          "en": "menyamai/setara",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_004_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "أَحَدٌۢ",
+        "textIndoPak": "اَحَدٌ‏",
+        "codeV1": "ﭢ",
+        "codeV2": "ﱒ",
+        "code_v1": "ﭢ",
+        "code_v2": "ﱒ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "aḥadun",
+        "translation": {
+          "id": "seorang",
+          "en": "seorang",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/112_004_005.mp3"
+      },
+      {
+        "position": 6,
+        "textUthmani": "٤",
+        "textIndoPak": "٤",
+        "codeV1": "ﭣ",
+        "codeV2": "ﱓ",
+        "code_v1": "ﭣ",
+        "code_v2": "ﱓ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(4)",
+          "en": "(4)",
+          "ar": ""
+        }
+      }
+    ]
+  }
+]

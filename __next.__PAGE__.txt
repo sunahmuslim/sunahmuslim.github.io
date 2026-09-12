@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[44852,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"HeroSection"]
+3:I[5245,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"InteractiveShowcase"]
+4:I[25140,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"FeaturesSection"]
+5:I[40249,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"MethodologySection"]
+6:I[36475,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"SecuritySection"]
+7:I[9963,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"FaqSection"]
+8:I[71442,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2s-1yizp5jth4.js","/_next/static/chunks/13h0mudje86sb.js"],"CtaSection"]
+9:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+e:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+f:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+d:X
+10:T64d,jadwal sholat tanpa iklan,aplikasi jadwal sholat offline,jadwal sholat hari ini di lokasi saya,jadwal sholat disini,jadwal sholat hari ini,jadwal waktu sholat,jadwal imsakiyah ramadhan 2026,waktu sholat tahajjud,alarm adzan otomatis,al quran 30 juz terjemahan,dzikir pagi petang shahih,arah kiblat tanpa internet,pengingat waktu shalat,jadwal sholat jakarta,jadwal sholat surabaya,jadwal sholat bandung,islamic prayer times,prayer times near me,prayer times today,muslim prayer times,best muslim prayer app,free muslim prayer app,best adhan app,ad free prayer times app,offline prayer times app,offline quran app,the holy quran english translation,qibla direction finder,qibla finder compass,offline qibla direction,authentic morning evening adhkar,ramadan 2026 prayer times,ramadan prayer times,tahajjud prayer time,sunnah muslim,sunnahmuslim,sunnah habits,sunnah daily timeline,prophetic sunnah routine,ahlus sunnah wal jamaah,sunnah prayer times,sunnah offline companion,sahih hadith takhrij albani,4 madzhab comparative fiqh,sunah muslim,sunahmuslim,sunah nabi,panduan sunnah 24 jam,linimasa ibadah nabi,jadwal sholat offline,waktu sholat akurat,arah kiblat falak,takhrij hadits shahih,hadits shahih bukhari muslim albani,fiqih 4 madzhab,komparasi madzhab fiqih,mutabaah yaumiyah,manhaj salafus shalih,سنة مسلم,مواقيت الصلاة بدون نت,أذان بدون إعلانات,القرآن الكريم بدون إنترنت,أذكار الصباح والمساء الصحيحة,سنن النبي اليومية,مواقيت الصلاة الدقيقة,تخريج الأحاديث الصحيحة0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/2s-1yizp5jth4.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/13h0mudje86sb.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Le",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SunahMuslim (Sunnah Muslim) — Panduan Linimasa Keseharian Nabi ﷺ & Fiqih 4 Madzhab"}],["$","meta","1",{"name":"description","content":"Aplikasi jadwal sholat akurat offline, alarm adzan otomatis tanpa iklan, Al-Qur'an 30 juz, arah kiblat presisi, dzikir pagi petang shahih, serta panduan linimasa 24 jam Sunnah Nabi ﷺ dan fiqih 4 madzhab."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"$10"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"Lifestyle"}],["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/"}],["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/"}],["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/"}],["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/"}],["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/"}],["$","meta","16",{"property":"og:title","content":"SunahMuslim — Panduan Linimasa Keseharian Nabi ﷺ & Fiqih 4 Madzhab"}],["$","meta","17",{"property":"og:description","content":"Tuntunan ibadah harian berlandaskan 100% dalil Shahih & Hasan, hisab astronomi luring tanpa internet, dan ulasan 4 madzhab yang objektif."}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]}],"$L26"]}],"isPartial":"$@27","staleTime":"$d","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@28","rootVaryParams":null,"needsRuntimeRequest":"$@29"}
+2a:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+b:null
+11:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/"}]
+12:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+13:["$","meta","20",{"property":"og:locale","content":"id_ID"}]
+14:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+15:["$","meta","22",{"property":"og:image:width","content":"512"}]
+16:["$","meta","23",{"property":"og:image:height","content":"512"}]
+17:["$","meta","24",{"property":"og:image:alt","content":"SunahMuslim Logo Official"}]
+18:["$","meta","25",{"property":"og:locale:alternate","content":"en_US"}]
+19:["$","meta","26",{"property":"og:locale:alternate","content":"ar_SA"}]
+1a:["$","meta","27",{"property":"og:type","content":"website"}]
+1b:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","29",{"name":"twitter:title","content":"SunahMuslim — Panduan Linimasa Keseharian Nabi ﷺ"}]
+1d:["$","meta","30",{"name":"twitter:description","content":"Tuntunan ibadah harian berlandaskan 100% dalil Shahih & Hasan, hisab astronomi luring tanpa internet, dan ulasan 4 madzhab yang objektif."}]
+1e:["$","meta","31",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+1f:["$","link","32",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+20:["$","link","33",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+21:["$","link","34",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+22:["$","link","35",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+23:["$","link","36",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+24:["$","link","37",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+25:["$","$L2a","38",{}]
+26:["$","meta",null,{"name":"next-size-adjust","content":""}]
+29:true
+d:300
+d:C
+28:0
+c:"$undefined"
+27:"$undefined"

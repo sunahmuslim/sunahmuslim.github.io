@@ -1,0 +1,762 @@
+[
+  {
+    "surahNumber": 1,
+    "ayahNumber": 1,
+    "ayahNumberGlobal": 1,
+    "textUthmani": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "textIndoPak": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "بِسْمِ",
+        "textIndoPak": "بِسۡمِ",
+        "codeV1": "ﭑ",
+        "codeV2": "ﱁ",
+        "code_v1": "ﭑ",
+        "code_v2": "ﱁ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "bis'mi",
+        "translation": {
+          "id": "dengan nama",
+          "en": "dengan nama",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_001_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱللَّهِ",
+        "textIndoPak": "اللهِ",
+        "codeV1": "ﭒ",
+        "codeV2": "ﱂ",
+        "code_v1": "ﭒ",
+        "code_v2": "ﱂ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-lahi",
+        "translation": {
+          "id": "Allah",
+          "en": "Allah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_001_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "ٱلرَّحْمَـٰنِ",
+        "textIndoPak": "الرَّحۡمٰنِ",
+        "codeV1": "ﭓ",
+        "codeV2": "ﱃ",
+        "code_v1": "ﭓ",
+        "code_v2": "ﱃ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-raḥmāni",
+        "translation": {
+          "id": "Maha Pengasih",
+          "en": "Maha Pengasih",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_001_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "ٱلرَّحِيمِ",
+        "textIndoPak": "الرَّحِيۡمِ",
+        "codeV1": "ﭔ",
+        "codeV2": "ﱄ",
+        "code_v1": "ﭔ",
+        "code_v2": "ﱄ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-raḥīmi",
+        "translation": {
+          "id": "Maha Penyayang",
+          "en": "Maha Penyayang",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_001_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "١",
+        "textIndoPak": "١",
+        "codeV1": "ﭕ",
+        "codeV2": "ﱅ",
+        "code_v1": "ﭕ",
+        "code_v2": "ﱅ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(1)",
+          "en": "(1)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 2,
+    "ayahNumberGlobal": 2,
+    "textUthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "textIndoPak": "اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَۙ‏",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "Segala puji bagi Allah, Tuhan seluruh alam,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "ٱلْحَمْدُ",
+        "textIndoPak": "اَلۡحَمۡدُ",
+        "codeV1": "ﭖ",
+        "codeV2": "ﱆ",
+        "code_v1": "ﭖ",
+        "code_v2": "ﱆ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "al-ḥamdu",
+        "translation": {
+          "id": "pujian",
+          "en": "pujian",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "لِلَّهِ",
+        "textIndoPak": "لِلّٰهِ",
+        "codeV1": "ﭗ",
+        "codeV2": "ﱇ",
+        "code_v1": "ﭗ",
+        "code_v2": "ﱇ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "lillahi",
+        "translation": {
+          "id": "bagi Allah",
+          "en": "bagi Allah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "رَبِّ",
+        "textIndoPak": "رَبِّ",
+        "codeV1": "ﭘ",
+        "codeV2": "ﱈ",
+        "code_v1": "ﭘ",
+        "code_v2": "ﱈ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "rabbi",
+        "translation": {
+          "id": "Tuhan",
+          "en": "Tuhan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "ٱلْعَـٰلَمِينَ",
+        "textIndoPak": "الۡعٰلَمِيۡنَۙ‏",
+        "codeV1": "ﭙ",
+        "codeV2": "ﱉ",
+        "code_v1": "ﭙ",
+        "code_v2": "ﱉ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-ʿālamīna",
+        "translation": {
+          "id": "alam semesta",
+          "en": "alam semesta",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "٢",
+        "textIndoPak": "٢",
+        "codeV1": "ﭚ",
+        "codeV2": "ﱊ",
+        "code_v1": "ﭚ",
+        "code_v2": "ﱊ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(2)",
+          "en": "(2)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 3,
+    "ayahNumberGlobal": 3,
+    "textUthmani": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "textIndoPak": "الرَّحۡمٰنِ الرَّحِيۡمِۙ‏",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "Yang Maha Pengasih, Maha Penyayang,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "ٱلرَّحْمَـٰنِ",
+        "textIndoPak": "الرَّحۡمٰنِ",
+        "codeV1": "ﭛ",
+        "codeV2": "ﱋ",
+        "code_v1": "ﭛ",
+        "code_v2": "ﱋ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "al-raḥmāni",
+        "translation": {
+          "id": "Maha Pengasih",
+          "en": "Maha Pengasih",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_003_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلرَّحِيمِ",
+        "textIndoPak": "الرَّحِيۡمِۙ‏",
+        "codeV1": "ﭜ",
+        "codeV2": "ﱌ",
+        "code_v1": "ﭜ",
+        "code_v2": "ﱌ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-raḥīmi",
+        "translation": {
+          "id": "Maha Penyayang",
+          "en": "Maha Penyayang",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_003_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "٣",
+        "textIndoPak": "٣",
+        "codeV1": "ﭝ",
+        "codeV2": "ﱍ",
+        "code_v1": "ﭝ",
+        "code_v2": "ﱍ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(3)",
+          "en": "(3)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 4,
+    "ayahNumberGlobal": 4,
+    "textUthmani": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+    "textIndoPak": "مٰلِكِ يَوۡمِ الدِّيۡنِؕ‏",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "Pemilik hari pembalasan.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "مَـٰلِكِ",
+        "textIndoPak": "مٰلِكِ",
+        "codeV1": "ﭞ",
+        "codeV2": "ﱎ",
+        "code_v1": "ﭞ",
+        "code_v2": "ﱎ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "māliki",
+        "translation": {
+          "id": "Penguasa",
+          "en": "Penguasa",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_004_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "يَوْمِ",
+        "textIndoPak": "يَوۡمِ",
+        "codeV1": "ﭟ",
+        "codeV2": "ﱏ",
+        "code_v1": "ﭟ",
+        "code_v2": "ﱏ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "yawmi",
+        "translation": {
+          "id": "hari",
+          "en": "hari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_004_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "ٱلدِّينِ",
+        "textIndoPak": "الدِّيۡنِؕ‏",
+        "codeV1": "ﭠ",
+        "codeV2": "ﱐ",
+        "code_v1": "ﭠ",
+        "code_v2": "ﱐ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-dīni",
+        "translation": {
+          "id": "pembalasan",
+          "en": "pembalasan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_004_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "٤",
+        "textIndoPak": "٤",
+        "codeV1": "ﭡ",
+        "codeV2": "ﱑ",
+        "code_v1": "ﭡ",
+        "code_v2": "ﱑ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(4)",
+          "en": "(4)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 5,
+    "ayahNumberGlobal": 5,
+    "textUthmani": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "textIndoPak": "اِيَّاكَ نَعۡبُدُ وَاِيَّاكَ نَسۡتَعِيۡنُؕ‏",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "إِيَّاكَ",
+        "textIndoPak": "اِيَّاكَ",
+        "codeV1": "ﭢ",
+        "codeV2": "ﱒ",
+        "code_v1": "ﭢ",
+        "code_v2": "ﱒ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "iyyāka",
+        "translation": {
+          "id": "hanya kepadaMu",
+          "en": "hanya kepadaMu",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "نَعْبُدُ",
+        "textIndoPak": "نَعۡبُدُ",
+        "codeV1": "ﭣ",
+        "codeV2": "ﱓ",
+        "code_v1": "ﭣ",
+        "code_v2": "ﱓ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "naʿbudu",
+        "translation": {
+          "id": "kami menyembah",
+          "en": "kami menyembah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "وَإِيَّاكَ",
+        "textIndoPak": "وَاِيَّاكَ",
+        "codeV1": "ﭤ",
+        "codeV2": "ﱔ",
+        "code_v1": "ﭤ",
+        "code_v2": "ﱔ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "wa-iyyāka",
+        "translation": {
+          "id": "dan hanya kepadaMu",
+          "en": "dan hanya kepadaMu",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "نَسْتَعِينُ",
+        "textIndoPak": "نَسۡتَعِيۡنُؕ‏",
+        "codeV1": "ﭥ",
+        "codeV2": "ﱕ",
+        "code_v1": "ﭥ",
+        "code_v2": "ﱕ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "nastaʿīnu",
+        "translation": {
+          "id": "kami mohon pertolongan",
+          "en": "kami mohon pertolongan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "٥",
+        "textIndoPak": "٥",
+        "codeV1": "ﭦ",
+        "codeV2": "ﱖ",
+        "code_v1": "ﭦ",
+        "code_v2": "ﱖ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(5)",
+          "en": "(5)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 6,
+    "ayahNumberGlobal": 6,
+    "textUthmani": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "textIndoPak": "اِهۡدِنَا الصِّرَاطَ الۡمُسۡتَقِيۡمَۙ‏",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "Tunjukilah kami jalan yang lurus,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "ٱهْدِنَا",
+        "textIndoPak": "اِهۡدِنَا",
+        "codeV1": "ﭧ",
+        "codeV2": "ﱗ",
+        "code_v1": "ﭧ",
+        "code_v2": "ﱗ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ih'dinā",
+        "translation": {
+          "id": "tunjukkan kami",
+          "en": "tunjukkan kami",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_006_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلصِّرَٰطَ",
+        "textIndoPak": "الصِّرَاطَ",
+        "codeV1": "ﭨ",
+        "codeV2": "ﱘ",
+        "code_v1": "ﭨ",
+        "code_v2": "ﱘ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-ṣirāṭa",
+        "translation": {
+          "id": "jalan",
+          "en": "jalan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_006_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "ٱلْمُسْتَقِيمَ",
+        "textIndoPak": "الۡمُسۡتَقِيۡمَۙ‏",
+        "codeV1": "ﭩ",
+        "codeV2": "ﱙ",
+        "code_v1": "ﭩ",
+        "code_v2": "ﱙ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-mus'taqīma",
+        "translation": {
+          "id": "lurus",
+          "en": "lurus",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_006_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "٦",
+        "textIndoPak": "٦",
+        "codeV1": "ﭪ",
+        "codeV2": "ﱚ",
+        "code_v1": "ﭪ",
+        "code_v2": "ﱚ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(6)",
+          "en": "(6)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 1,
+    "ayahNumber": 7,
+    "ayahNumberGlobal": 7,
+    "textUthmani": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "textIndoPak": "صِرَاطَ الَّذِيۡنَ اَنۡعَمۡتَ عَلَيۡهِمۡ ۙ‏ غَيۡرِ الۡمَغۡضُوۡبِ عَلَيۡهِمۡ وَلَا الضَّآلِّيۡنَ‏",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "translations": {
+      "id_kemenag": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "صِرَٰطَ",
+        "textIndoPak": "صِرَاطَ",
+        "codeV1": "ﭫ",
+        "codeV2": "ﱛ",
+        "code_v1": "ﭫ",
+        "code_v2": "ﱛ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ṣirāṭa",
+        "translation": {
+          "id": "jalan",
+          "en": "jalan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلَّذِينَ",
+        "textIndoPak": "الَّذِيۡنَ",
+        "codeV1": "ﭬ",
+        "codeV2": "ﱜ",
+        "code_v1": "ﭬ",
+        "code_v2": "ﱜ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "alladhīna",
+        "translation": {
+          "id": "orang-orang yang",
+          "en": "orang-orang yang",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "أَنْعَمْتَ",
+        "textIndoPak": "اَنۡعَمۡتَ",
+        "codeV1": "ﭭ",
+        "codeV2": "ﱝ",
+        "code_v1": "ﭭ",
+        "code_v2": "ﱝ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "anʿamta",
+        "translation": {
+          "id": "diberi nikmat",
+          "en": "diberi nikmat",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "عَلَيْهِمْ",
+        "textIndoPak": "عَلَيۡهِمۡ ۙ‏",
+        "codeV1": "ﭮ",
+        "codeV2": "ﱞ",
+        "code_v1": "ﭮ",
+        "code_v2": "ﱞ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ʿalayhim",
+        "translation": {
+          "id": "kepadanya",
+          "en": "kepadanya",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "غَيْرِ",
+        "textIndoPak": "غَيۡرِ",
+        "codeV1": "ﭯ",
+        "codeV2": "ﱟ",
+        "code_v1": "ﭯ",
+        "code_v2": "ﱟ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ghayri",
+        "translation": {
+          "id": "bukan",
+          "en": "bukan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_005.mp3"
+      },
+      {
+        "position": 6,
+        "textUthmani": "ٱلْمَغْضُوبِ",
+        "textIndoPak": "الۡمَغۡضُوۡبِ",
+        "codeV1": "ﭰ",
+        "codeV2": "ﱠ",
+        "code_v1": "ﭰ",
+        "code_v2": "ﱠ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-maghḍūbi",
+        "translation": {
+          "id": "orang yang dimurkai",
+          "en": "orang yang dimurkai",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_006.mp3"
+      },
+      {
+        "position": 7,
+        "textUthmani": "عَلَيْهِمْ",
+        "textIndoPak": "عَلَيۡهِمۡ",
+        "codeV1": "ﭱ",
+        "codeV2": "ﱡ",
+        "code_v1": "ﭱ",
+        "code_v2": "ﱡ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ʿalayhim",
+        "translation": {
+          "id": "kepadanya",
+          "en": "kepadanya",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_007.mp3"
+      },
+      {
+        "position": 8,
+        "textUthmani": "وَلَا",
+        "textIndoPak": "وَلَا",
+        "codeV1": "ﭲ",
+        "codeV2": "ﱢ",
+        "code_v1": "ﭲ",
+        "code_v2": "ﱢ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "walā",
+        "translation": {
+          "id": "dan tidak",
+          "en": "dan tidak",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_008.mp3"
+      },
+      {
+        "position": 9,
+        "textUthmani": "ٱلضَّآلِّينَ",
+        "textIndoPak": "الضَّآلِّيۡنَ‏",
+        "codeV1": "ﭳ",
+        "codeV2": "ﱣ",
+        "code_v1": "ﭳ",
+        "code_v2": "ﱣ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-ḍālīna",
+        "translation": {
+          "id": "orang-orang yang sesat",
+          "en": "orang-orang yang sesat",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_009.mp3"
+      },
+      {
+        "position": 10,
+        "textUthmani": "٧",
+        "textIndoPak": "٧",
+        "codeV1": "ﭴ",
+        "codeV2": "ﱤ",
+        "code_v1": "ﭴ",
+        "code_v2": "ﱤ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(7)",
+          "en": "(7)",
+          "ar": ""
+        }
+      }
+    ]
+  }
+]

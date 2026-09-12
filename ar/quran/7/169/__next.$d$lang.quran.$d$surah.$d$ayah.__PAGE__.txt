@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+3:I[51443,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2w7r4_tpp_4js.js","/_next/static/chunks/0dbk1xol_4p93.js"],"LanguageSync"]
+4:"$Sreact.suspense"
+5:I[8513,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js","/_next/static/chunks/2w7r4_tpp_4js.js","/_next/static/chunks/0dbk1xol_4p93.js"],"QuranLandingIndex"]
+6:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"OutletBoundary"]
+a:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"ViewportBoundary"]
+b:I[99502,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"MetadataBoundary"]
+2:T90d,[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://sunahmuslim.com/ar/"},{"@type":"ListItem","position":2,"name":"القرآن الكريم","item":"https://sunahmuslim.com/ar/quran/"},{"@type":"ListItem","position":3,"name":"Surah Al-A'raf","item":"https://sunahmuslim.com/ar/quran/7/"},{"@type":"ListItem","position":4,"name":"Ayat 169","item":"https://sunahmuslim.com/ar/quran/7/169/"}]},{"@context":"https://schema.org","@type":"Article","@id":"https://sunahmuslim.com/ar/quran/7/169/#article","url":"https://sunahmuslim.com/ar/quran/7/169/","headline":"Surah Al-A'raf : 169","description":"\"فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْه...\" — سورة الأعراف الآية 169. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية.","articleBody":"فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَـٰقُ ٱلْكِتَـٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ ۗ وَٱلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ","inLanguage":"ar","isPartOf":{"@type":"WebPage","@id":"https://sunahmuslim.com/ar/quran/7/#webpage","url":"https://sunahmuslim.com/ar/quran/7/","name":"Surah Al-A'raf"},"publisher":{"@type":"Organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":{"@type":"ImageObject","url":"https://sunahmuslim.com/logo.png"}}}]9:X
+30:X
+30:C
+0:{"buildId":"RPPMtnRR8iBXQywDt450V","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"lang":"ar"}],["$","$4",null,{"fallback":["$","div",null,{"className":"quran-page-wrap","children":["$","div",null,{"className":"quran-container py-16 text-center text-gray-400","children":["Memuat Surah ",7," Ayat ",169,"..."]}]}],"children":["$","div",null,{"className":"quran-page-wrap","children":["$","$L5",null,{"initialSurahNumber":7,"initialAyahNumber":169,"singleAyahMode":true}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/2w7r4_tpp_4js.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0dbk1xol_4p93.js","async":true}]],["$","$L6",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"سورة الأعراف الآية 169 — الرسم العثماني — سنة مسلم"}],["$","meta","1",{"name":"description","content":"\"فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْه...\" — سورة الأعراف الآية 169. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json"}],["$","meta","5",{"name":"keywords","content":"سورة الأعراف آية 169,تفسير سورة الأعراف 169"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}]}]}],"$L2c"]}],"isPartial":"$@2d","staleTime":"$9","varyParams":null},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$9","varyParams":"$30"},{"rsc":"$L31","isPartial":"$@32","staleTime":"$9","varyParams":"$30"},{"rsc":"$L33","isPartial":"$@34","staleTime":"$9","varyParams":"$30"},{"rsc":"$L35","isPartial":"$@36","staleTime":"$9","varyParams":"$30"}],"isUpgradeableISRFallback":false,"a":"$@37","rootVaryParams":null,"needsRuntimeRequest":"$@38"}
+39:I[92014,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"IconMark"]
+3a:I[64879,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+3b:I[63676,["/_next/static/chunks/3517_58ene4w_.js","/_next/static/chunks/1d1hoox00s_lk.js","/_next/static/chunks/3xbk29agxw229.js"],"default"]
+7:null
+c:["$","meta","8",{"name":"robots","content":"index, follow"}]
+d:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+e:["$","meta","10",{"name":"category","content":"Lifestyle"}]
+f:["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/ar/quran/7/169/"}]
+10:["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/quran/7/169/"}]
+11:["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/quran/7/169/"}]
+12:["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/quran/7/169/"}]
+13:["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/quran/7/169/"}]
+14:["$","meta","16",{"property":"og:title","content":"سورة الأعراف الآية 169 — الرسم العثماني — سنة مسلم"}]
+15:["$","meta","17",{"property":"og:description","content":"\"فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْه...\" — سورة الأعراف الآية 169. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية."}]
+16:["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/ar/quran/7/169/"}]
+17:["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}]
+18:["$","meta","20",{"property":"og:locale","content":"ar_SA"}]
+19:["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}]
+1a:["$","meta","22",{"property":"og:image:width","content":"1200"}]
+1b:["$","meta","23",{"property":"og:image:height","content":"630"}]
+1c:["$","meta","24",{"property":"og:image:alt","content":"Surah Al-A'raf Ayat 169"}]
+1d:["$","meta","25",{"property":"og:locale:alternate","content":"id_ID"}]
+1e:["$","meta","26",{"property":"og:locale:alternate","content":"en_US"}]
+1f:["$","meta","27",{"property":"og:locale:alternate","content":"ar_SA"}]
+20:["$","meta","28",{"property":"og:type","content":"article"}]
+21:["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}]
+22:["$","meta","30",{"name":"twitter:title","content":"سورة الأعراف الآية 169 — الرسم العثماني — سنة مسلم"}]
+23:["$","meta","31",{"name":"twitter:description","content":"\"فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْه...\" — سورة الأعراف الآية 169. اقرأ بالرسم العثماني المعتمد لمجمع الملك فهد مع التجويد الملون والتلاوة الصوتية."}]
+24:["$","meta","32",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+25:["$","link","33",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+26:["$","link","34",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+27:["$","link","35",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+28:["$","link","36",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+29:["$","link","37",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+2a:["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2b:["$","$L39","39",{}]
+2c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2e:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+31:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+33:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+35:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+38:true
+9:300
+9:C
+37:0
+2f:"$undefined"
+32:"$undefined"
+34:"$undefined"
+36:"$undefined"
+8:"$undefined"
+2d:"$undefined"
