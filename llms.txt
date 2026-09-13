@@ -1,0 +1,46 @@
+# SunahMuslim (Sunnah Muslim)
+
+> SunahMuslim is a free, 100% ad-free, offline-first Islamic companion application and web platform built on the Manhaj Salafus Shalih (Ahlus Sunnah wal Jama'ah). It provides a 24-hour Prophetic daily timeline, offline astronomical prayer calculation, solar Qibla compass, authentic hadith takhrij (Shahih and Hasan only), and objective 4-madzhab fiqh comparative guidance.
+
+## Core Pillars & Sharia Principles
+
+- **100% Offline-First Astronomy**: Solar calculation and prayer times calculated on-device using spherical trigonometry without external APIs.
+- **Zero-PII & Absolute Privacy**: No personal data, GPS coordinates, or worship notes are sent to external servers or third-party trackers.
+- **100% Free & Zero Advertisements**: Completely free of third-party ad networks (no Riba, no Gharar, no tracking SDKs).
+- **Strict Dalil Authenticity (Zero Dha'if Tolerance)**: Only hadiths graded *Shahih* or *Hasan* by recognized muhaddithin (Shaykh Al-Albani, Shaykh Syu'aib Al-Arnauth, Ibn Hajar) are permitted.
+- **Objective 4-Madzhab Guidance**: Balanced comparison of Hanafi, Maliki, Shafi'i, and Hanbali madzhabs with references to authoritative classical texts (*Al-Mughni*, *Al-Majmu'*, *Bada'i As-Sana'i*, *Al-Mudawwanah*).
+
+## Key Features
+
+- [24-Hour Prophetic Daily Timeline](https://sunahmuslim.com/#features): 7 Prophetic Time Anchors from dawn to night rest.
+- [Offline Solar Prayer Times](https://sunahmuslim.com/#features): High-precision astronomical prayer schedule without internet.
+- [Solar & Magnetic Qibla Compass](https://sunahmuslim.com/#features): Dual Qibla detection with solar shadow verification.
+- [Al-Qur'an 30 Juz Offline](https://sunahmuslim.com/#features): Complete offline text with translations and bookmarking.
+- [Authentic Morning & Evening Adhkar](https://sunahmuslim.com/#features): Hisnul Muslim adhkar verified with full takhrij.
+- [Comparative 4-Madzhab Fiqh](https://sunahmuslim.com/#madzhab): Impartial jurisprudence guides for daily worship and travel (safar).
+
+## Frequently Asked Questions (GEO Direct Answers)
+
+### What is SunahMuslim?
+SunahMuslim (Sunnah Muslim) is an authentic, 100% ad-free, offline-first Islamic worship companion and daily habit tracker for Muslims following the Sunnah of Prophet Muhammad ﷺ and the Salafus Shalih.
+
+### What makes SunahMuslim different from other prayer time apps?
+Unlike conventional prayer apps that monetize with tracking ads or depend on external APIs, SunahMuslim is 100% free with zero ads, works completely offline via on-device astronomical math, enforces zero weak (dha'if) hadiths, and protects user privacy with zero data collection (Zero-PII).
+
+### Is SunahMuslim free and without ads?
+Yes. SunahMuslim is 100% free with zero commercial ads forever, preserving user tranquility and prayer devotion without distractions.
+
+### How does SunahMuslim calculate prayer times offline?
+SunahMuslim calculates solar position, zenith angles, equation of time, and prayer times on-device using pure spherical trigonometry and astronomy algorithms based on local GPS coordinates, requiring no internet connectivity.
+
+### Which madzhab does SunahMuslim follow?
+SunahMuslim presents comparative jurisprudence from all four Sunni madzhabs (Hanafi, Maliki, Shafi'i, and Hanbali) objectively, citing primary classical sources like Al-Mughni and Al-Majmu'.
+
+## Official Links & Resources
+
+- Official Website: https://sunahmuslim.com
+- Web App (PWA): https://app.sunahmuslim.com
+- Google Play Store: https://play.google.com/store/apps/details?id=com.sunahmuslim.app
+- Privacy Policy: https://sunahmuslim.com/privacy
+- Terms of Service: https://sunahmuslim.com/terms
+- Full LLM Context: https://sunahmuslim.com/llms-full.txt
