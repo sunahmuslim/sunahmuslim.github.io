@@ -1,0 +1,566 @@
+[
+  {
+    "surahNumber": 114,
+    "ayahNumber": 1,
+    "ayahNumberGlobal": 6231,
+    "textUthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "textIndoPak": "قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "Katakanlah, \"Aku berlindung kepada Tuhannya manusia,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "قُلْ",
+        "textIndoPak": "قُلۡ",
+        "codeV1": "ﮀ",
+        "codeV2": "ﱰ",
+        "code_v1": "ﮀ",
+        "code_v2": "ﱰ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "qul",
+        "translation": {
+          "id": "katakanlah",
+          "en": "katakanlah",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_001_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "أَعُوذُ",
+        "textIndoPak": "اَعُوۡذُ",
+        "codeV1": "ﮁ",
+        "codeV2": "ﱱ",
+        "code_v1": "ﮁ",
+        "code_v2": "ﱱ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "aʿūdhu",
+        "translation": {
+          "id": "aku berlindung",
+          "en": "aku berlindung",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_001_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "بِرَبِّ",
+        "textIndoPak": "بِرَبِّ",
+        "codeV1": "ﮂ",
+        "codeV2": "ﱲ",
+        "code_v1": "ﮂ",
+        "code_v2": "ﱲ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "birabbi",
+        "translation": {
+          "id": "Tuhannya",
+          "en": "Tuhannya",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_001_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "ٱلنَّاسِ",
+        "textIndoPak": "النَّاسِۙ‏",
+        "codeV1": "ﮃ",
+        "codeV2": "ﱳ",
+        "code_v1": "ﮃ",
+        "code_v2": "ﱳ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-nāsi",
+        "translation": {
+          "id": "manusia",
+          "en": "manusia",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_001_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "١",
+        "textIndoPak": "١",
+        "codeV1": "ﮄ",
+        "codeV2": "ﱴ",
+        "code_v1": "ﮄ",
+        "code_v2": "ﱴ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(1)",
+          "en": "(1)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 114,
+    "ayahNumber": 2,
+    "ayahNumberGlobal": 6232,
+    "textUthmani": "مَلِكِ ٱلنَّاسِ",
+    "textIndoPak": "مَلِكِ النَّاسِۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "Raja manusia,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "مَلِكِ",
+        "textIndoPak": "مَلِكِ",
+        "codeV1": "ﮅ",
+        "codeV2": "ﱵ",
+        "code_v1": "ﮅ",
+        "code_v2": "ﱵ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "maliki",
+        "translation": {
+          "id": "Rajanya",
+          "en": "Rajanya",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_002_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلنَّاسِ",
+        "textIndoPak": "النَّاسِۙ‏",
+        "codeV1": "ﮆ",
+        "codeV2": "ﱶ",
+        "code_v1": "ﮆ",
+        "code_v2": "ﱶ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-nāsi",
+        "translation": {
+          "id": "manusia",
+          "en": "manusia",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_002_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "٢",
+        "textIndoPak": "٢",
+        "codeV1": "ﮇ",
+        "codeV2": "ﱷ",
+        "code_v1": "ﮇ",
+        "code_v2": "ﱷ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(2)",
+          "en": "(2)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 114,
+    "ayahNumber": 3,
+    "ayahNumberGlobal": 6233,
+    "textUthmani": "إِلَـٰهِ ٱلنَّاسِ",
+    "textIndoPak": "اِلٰهِ النَّاسِۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "sembahan manusia,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "إِلَـٰهِ",
+        "textIndoPak": "اِلٰهِ",
+        "codeV1": "ﮈ",
+        "codeV2": "ﱸ",
+        "code_v1": "ﮈ",
+        "code_v2": "ﱸ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ilāhi",
+        "translation": {
+          "id": "Tuhannya",
+          "en": "Tuhannya",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_003_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلنَّاسِ",
+        "textIndoPak": "النَّاسِۙ‏",
+        "codeV1": "ﮉ",
+        "codeV2": "ﱹ",
+        "code_v1": "ﮉ",
+        "code_v2": "ﱹ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-nāsi",
+        "translation": {
+          "id": "manusia",
+          "en": "manusia",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_003_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "٣",
+        "textIndoPak": "٣",
+        "codeV1": "ﮊ",
+        "codeV2": "ﱺ",
+        "code_v1": "ﮊ",
+        "code_v2": "ﱺ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(3)",
+          "en": "(3)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 114,
+    "ayahNumber": 4,
+    "ayahNumberGlobal": 6234,
+    "textUthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+    "textIndoPak": "مِنۡ شَرِّ الۡوَسۡوَاسِ  ۙ الۡخَـنَّاسِ ۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "dari kejahatan (bisikan) setan yang bersembunyi,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "مِن",
+        "textIndoPak": "مِنۡ",
+        "codeV1": "ﮋ",
+        "codeV2": "ﱻ",
+        "code_v1": "ﮋ",
+        "code_v2": "ﱻ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "min",
+        "translation": {
+          "id": "dari",
+          "en": "dari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_004_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "شَرِّ",
+        "textIndoPak": "شَرِّ",
+        "codeV1": "ﮌ",
+        "codeV2": "ﱼ",
+        "code_v1": "ﮌ",
+        "code_v2": "ﱼ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "sharri",
+        "translation": {
+          "id": "kejahatan",
+          "en": "kejahatan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_004_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "ٱلْوَسْوَاسِ",
+        "textIndoPak": "الۡوَسۡوَاسِ  ۙ",
+        "codeV1": "ﮍ",
+        "codeV2": "ﱽ",
+        "code_v1": "ﮍ",
+        "code_v2": "ﱽ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-waswāsi",
+        "translation": {
+          "id": "bisikkan",
+          "en": "bisikkan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_004_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "ٱلْخَنَّاسِ",
+        "textIndoPak": "الۡخَـنَّاسِ ۙ‏",
+        "codeV1": "ﮎ",
+        "codeV2": "ﱾ",
+        "code_v1": "ﮎ",
+        "code_v2": "ﱾ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-khanāsi",
+        "translation": {
+          "id": "menunggu-nunggu/bersembunyi",
+          "en": "menunggu-nunggu/bersembunyi",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_004_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "٤",
+        "textIndoPak": "٤",
+        "codeV1": "ﮏ",
+        "codeV2": "ﱿ",
+        "code_v1": "ﮏ",
+        "code_v2": "ﱿ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(4)",
+          "en": "(4)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 114,
+    "ayahNumber": 5,
+    "ayahNumberGlobal": 6235,
+    "textUthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+    "textIndoPak": "الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِۙ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "ٱلَّذِى",
+        "textIndoPak": "الَّذِىۡ",
+        "codeV1": "ﮐ",
+        "codeV2": "ﲀ",
+        "code_v1": "ﮐ",
+        "code_v2": "ﲀ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "alladhī",
+        "translation": {
+          "id": "yang",
+          "en": "yang",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_005_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "يُوَسْوِسُ",
+        "textIndoPak": "يُوَسۡوِسُ",
+        "codeV1": "ﮑ",
+        "codeV2": "ﲁ",
+        "code_v1": "ﮑ",
+        "code_v2": "ﲁ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "yuwaswisu",
+        "translation": {
+          "id": "membisik-bisikan",
+          "en": "membisik-bisikan",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_005_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "فِى",
+        "textIndoPak": "فِىۡ",
+        "codeV1": "ﮒ",
+        "codeV2": "ﲂ",
+        "code_v1": "ﮒ",
+        "code_v2": "ﲂ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "fī",
+        "translation": {
+          "id": "dalam",
+          "en": "dalam",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_005_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "صُدُورِ",
+        "textIndoPak": "صُدُوۡرِ",
+        "codeV1": "ﮓ",
+        "codeV2": "ﲃ",
+        "code_v1": "ﮓ",
+        "code_v2": "ﲃ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "ṣudūri",
+        "translation": {
+          "id": "dada",
+          "en": "dada",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_005_004.mp3"
+      },
+      {
+        "position": 5,
+        "textUthmani": "ٱلنَّاسِ",
+        "textIndoPak": "النَّاسِۙ‏",
+        "codeV1": "ﮔ",
+        "codeV2": "ﲄ",
+        "code_v1": "ﮔ",
+        "code_v2": "ﲄ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-nāsi",
+        "translation": {
+          "id": "manusia",
+          "en": "manusia",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_005_005.mp3"
+      },
+      {
+        "position": 6,
+        "textUthmani": "٥",
+        "textIndoPak": "٥",
+        "codeV1": "ﮕ",
+        "codeV2": "ﲅ",
+        "code_v1": "ﮕ",
+        "code_v2": "ﲅ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(5)",
+          "en": "(5)",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
+    "surahNumber": 114,
+    "ayahNumber": 6,
+    "ayahNumberGlobal": 6236,
+    "textUthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+    "textIndoPak": "مِنَ الۡجِنَّةِ وَالنَّاسِ‏",
+    "pageNumber": 604,
+    "juzNumber": 30,
+    "hizbNumber": 60,
+    "rubElHizbNumber": 240,
+    "translations": {
+      "id_kemenag": "dari (golongan) jin dan manusia.\"",
+      "en_haleem": ""
+    },
+    "words": [
+      {
+        "position": 1,
+        "textUthmani": "مِنَ",
+        "textIndoPak": "مِنَ",
+        "codeV1": "ﮖ",
+        "codeV2": "ﲆ",
+        "code_v1": "ﮖ",
+        "code_v2": "ﲆ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "mina",
+        "translation": {
+          "id": "dari",
+          "en": "dari",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_006_001.mp3"
+      },
+      {
+        "position": 2,
+        "textUthmani": "ٱلْجِنَّةِ",
+        "textIndoPak": "الۡجِنَّةِ",
+        "codeV1": "ﮗ",
+        "codeV2": "ﲇ",
+        "code_v1": "ﮗ",
+        "code_v2": "ﲇ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "l-jinati",
+        "translation": {
+          "id": "jin",
+          "en": "jin",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_006_002.mp3"
+      },
+      {
+        "position": 3,
+        "textUthmani": "وَٱلنَّاسِ",
+        "textIndoPak": "وَالنَّاسِ‏",
+        "codeV1": "ﮘ",
+        "codeV2": "ﲈ",
+        "code_v1": "ﮘ",
+        "code_v2": "ﲈ",
+        "charTypeName": "word",
+        "char_type_name": "word",
+        "transliteration": "wal-nāsi",
+        "translation": {
+          "id": "dan manusia",
+          "en": "dan manusia",
+          "ar": ""
+        },
+        "audioUrl": "https://audio.qurancdn.com/wbw/114_006_003.mp3"
+      },
+      {
+        "position": 4,
+        "textUthmani": "٦",
+        "textIndoPak": "٦",
+        "codeV1": "ﮙ",
+        "codeV2": "ﲉ",
+        "code_v1": "ﮙ",
+        "code_v2": "ﲉ",
+        "charTypeName": "end",
+        "char_type_name": "end",
+        "transliteration": "",
+        "translation": {
+          "id": "(6)",
+          "en": "(6)",
+          "ar": ""
+        }
+      }
+    ]
+  }
+]

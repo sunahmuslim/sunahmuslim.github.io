@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+9:I[6560,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"default",1]
+:HL["/_next/static/chunks/3dzq_9g3z3mkz.css","style"]
+:HL["/_next/static/chunks/3d9yf3mwe18s9.css","style"]
+:HL["/_next/static/media/05d29f0ed5b0e698-s.p.1mou8v493x-u7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/291696193ea1e96b-s.p.1zf0xf1cyi65q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9433d1a810498265-s.p.1hij5ex6k3v9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:T112d,{"@context":"https://schema.org","@graph":[{"@type":"MobileApplication","@id":"https://sunahmuslim.com/#app","name":"SunahMuslim","alternateName":["Sunnah Muslim","SunnahMuslim","Sunah Muslim","SunahMuslim","SunnahSync","SalafHabit","Ihya Daily"],"operatingSystem":"Android, Web (PWA)","applicationCategory":"LifestyleApplication","applicationSubCategory":"Religious & Spiritual Guidance","isAccessibleForFree":true,"softwareVersion":"1.0.0","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock"},"description":"Panduan Linimasa Keseharian Nabi ﷺ (24 Jam), Hisab Waktu Shalat & Kiblat Falak Presisi 100% Offline, Dalil Shahih/Hasan, dan Fiqih 4 Madzhab.","downloadUrl":"https://play.google.com/store/apps/details?id=com.sunahmuslim.app","knowsAbout":["Islamic Prayer Times","Salah & Adhan","Qibla Direction & Solar Shadow","Holy Quran 30 Juz","Hadith Takhrij (Shaykh Al-Albani & Ibn Hajar)","Objective 4-Madzhab Comparative Fiqh (Hanafi, Maliki, Shafi'i, Hanbali)","Authentic Morning and Evening Adhkar (Hisnul Muslim)","Prophetic Sunnah 24-Hour Timeline","Manhaj Salafus Shalih"],"audience":{"@type":"Audience","audienceType":"Muslims worldwide seeking authentic, ad-free prophetic guidance"},"featureList":["24-Hour Prophetic Daily Timeline (7 Prophetic Time Anchors)","100% Offline Astronomical Solar Prayer Times (Zero external API)","Solar Shadow & Magnetic Qibla Direction Compass","100% Takhrij Shahih & Hasan (Syaikh Al-Albani & Ibnu Hajar)","Objective 4-Madzhab Comparative Fiqh Analysis (Hanafi, Maliki, Syafi'i, Hambali)","Zero-PII Privacy Guarantee (0 bytes sent to external servers)","100% Ad-Free Forever (No Riba, No Gharar, No Tracking SDKs)"],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".section-title",".faq-answer",".methodology-desc"]}},{"@type":"Organization","@id":"https://sunahmuslim.com/#organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":"https://sunahmuslim.com/logo.png","contactPoint":{"@type":"ContactPoint","email":"support@sunahmuslim.com","contactType":"Customer Support"},"sameAs":["https://play.google.com/store/apps/details?id=com.sunahmuslim.app"]},{"@type":"WebSite","@id":"https://sunahmuslim.com/#website","url":"https://sunahmuslim.com","name":"SunahMuslim","description":"Official Web Portal & Daily Prophetic Worship Companion","publisher":{"@id":"https://sunahmuslim.com/#organization"},"inLanguage":["id","en","ar"]},{"@type":"FAQPage","@id":"https://sunahmuslim.com/#faq","mainEntity":[{"@type":"Question","name":"Apakah SunahMuslim dapat digunakan 100% tanpa internet (offline)?","acceptedAnswer":{"@type":"Answer","text":"Ya, seluruh fitur inti seperti hisab waktu shalat astronomis, kompas arah kiblat, linimasa amalan 24 jam, dan panduan fiqih 4 madzhab dapat beroperasi 100% luring (offline) tanpa ketergantungan koneksi internet."}},{"@type":"Question","name":"Bagaimana standar keshahihan dalil yang digunakan di SunahMuslim?","acceptedAnswer":{"@type":"Answer","text":"SunahMuslim menerapkan kebijakan ketat zero-dha'if tolerance. Seluruh hadits dan dalil wajib berderajat Shahih atau Hasan menurut ulama muhaddits mu'tabar seperti Syaikh Muhammad Nashiruddin Al-Albani, Syaikh Syu'aib Al-Arnauth, dan Al-Hafizh Ibnu Hajar."}},{"@type":"Question","name":"Bagaimana SunahMuslim menyajikan perbedaan pendapat (ikhtilaf) fiqih?","acceptedAnswer":{"@type":"Answer","text":"Kami menyajikan pandangan 4 madzhab Ahlus Sunnah (Hanafi, Maliki, Syafi'i, Hambali) secara objektif dan berimbang, merujuk langsung ke kitab-kitab induk seperti Al-Mughni, Al-Majmu', dan Bada'i' As-Sana'i'."}},{"@type":"Question","name":"Apakah aplikasi SunahMuslim benar-benar gratis dan bebas iklan?","acceptedAnswer":{"@type":"Answer","text":"Ya, 100% gratis dan bebas iklan selamanya. SunahMuslim berkomitmen menjaga kekhusyukan ibadah Anda dengan tidak menyematkan iklan pihak ketiga (bebas Riba/Gharar) serta menjamin privasi mutlak tanpa pelacakan data pribadi (Zero-PII)."}},{"@type":"Question","name":"Bagaimana cara kerja jadwal sholat dan arah kiblat tanpa koneksi internet?","acceptedAnswer":{"@type":"Answer","text":"SunahMuslim menggunakan hisab falak astronomi lokal murni dan kompas bayangan matahari. Seluruh perhitungan posisi matahari dan waktu shalat 5 waktu diproses langsung di HP Anda secara matematis tanpa memerlukan kuota data atau sinyal internet."}}]}]}7:X
+0:{"P":null,"c":["","id","delete-account",""],"q":"","i":false,"f":[[["",{"children":[["lang","id","d",["auth","delete-account","kajian","privacy","quran","shalat","terms"]],{"children":["delete-account",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dzq_9g3z3mkz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3d9yf3mwe18s9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0ubt_h5x6iqvs.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0bt_grpq8iddr.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2jppnkpu2w4zx.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"id","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","className":"plus_jakarta_sans_8def66c5-module__XA8t6q__variable newsreader_46f8440c-module__Cxszqq__variable amiri_a4c88fd9-module__x0hJVW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"text/plain","href":"https://sunahmuslim.com/llms.txt","title":"LLM Context"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon.svg?v=20260912"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"48x48","href":"/favicon-48x48.png?v=20260912"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"96x96","href":"/favicon-96x96.png?v=20260912"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"192x192","href":"/icon-192x192.png?v=20260912"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon.png?v=20260912"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],"$L3"]}]]}],{"children":["$L4",{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$7"]},null,false,"$7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xiVExsGzFZTG1ZSbDDMH4"}
+c:I[75070,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],""]
+e:I[19289,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"I18nProvider"]
+f:I[61328,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"Navbar"]
+10:I[60486,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"default"]
+11:I[35295,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"default"]
+12:I[64277,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js","/_next/static/chunks/3-9nol20wb9im.js","/_next/static/chunks/25rl79zpsji79.js"],"default"]
+13:I[48277,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"Footer"]
+15:I[68475,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[68475,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"ViewportBoundary"]
+1a:I[68475,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"MetadataBoundary"]
+d:T9c9,
+            // Defensive safeguard against GA4 YouTube Enhanced Measurement race conditions
+            (function() {
+              if (typeof window === 'undefined') return;
+              var safeMethods = {
+                getDuration: function() { return 0; },
+                getCurrentTime: function() { return 0; },
+                getPlaybackRate: function() { return 1; },
+                getAvailablePlaybackRates: function() { return [1]; },
+                getPlayerState: function() { return -1; },
+                getVideoData: function() { return { video_id: '', author: '', title: '' }; },
+                getVideoUrl: function() { return ''; },
+                getVolume: function() { return 100; },
+                isMuted: function() { return false; },
+                getVideoLoadedFraction: function() { return 0; },
+                getPlaybackQuality: function() { return 'auto'; },
+                getAvailableQualityLevels: function() { return []; },
+                getIframe: function() { return this instanceof Element ? this : null; },
+                seekTo: function() {},
+                playVideo: function() {},
+                pauseVideo: function() {},
+                stopVideo: function() {},
+                destroy: function() {}
+              };
+
+              function patchProto(proto) {
+                if (!proto) return;
+                for (var k in safeMethods) {
+                  if (typeof proto[k] !== 'function') {
+                    proto[k] = safeMethods[k];
+                  }
+                }
+              }
+
+              if (typeof HTMLIFrameElement !== 'undefined') {
+                patchProto(HTMLIFrameElement.prototype);
+              }
+
+              var _yt = window.YT;
+              Object.defineProperty(window, 'YT', {
+                configurable: true,
+                enumerable: true,
+                get: function() { return _yt; },
+                set: function(val) {
+                  _yt = val;
+                  if (_yt && _yt.Player && _yt.Player.prototype) {
+                    patchProto(_yt.Player.prototype);
+                  }
+                }
+              });
+
+              if (_yt && _yt.Player && _yt.Player.prototype) {
+                patchProto(_yt.Player.prototype);
+              }
+            })();
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-ZNL0N235HQ');
+          3:["$","body",null,{"suppressHydrationWarning":true,"children":[["$","$Lc",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-ZNL0N235HQ","strategy":"afterInteractive"}],["$","$Lc",null,{"id":"google-analytics","strategy":"afterInteractive","children":"$d"}],["$","a",null,{"href":"#main-content","className":"skip-to-content","children":"Lewati ke konten utama / Skip to main content"}],["$","$Le",null,{"children":[["$","div",null,{"className":"ambient-glow"}],["$","$Lf",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L12",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L13",null,{}]]}]]}]
+4:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+5:["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+6:["$","$1","c",{"children":["$L14",[["$","script","script-0",{"src":"/_next/static/chunks/06t3l62vrbsyx.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+8:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dzq_9g3z3mkz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3d9yf3mwe18s9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1c:I[51443,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js","/_next/static/chunks/06t3l62vrbsyx.js"],"LanguageSync"]
+1d:I[57669,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js","/_next/static/chunks/06t3l62vrbsyx.js"],"DeleteAccountView"]
+7:C
+14:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https://sunahmuslim.com/id/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Penghapusan Akun\",\"item\":\"https://sunahmuslim.com/id/delete-account/\"}]},{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://sunahmuslim.com/id/delete-account/#webpage\",\"url\":\"https://sunahmuslim.com/id/delete-account/\",\"name\":\"Permohonan Penghapusan Akun & Data (Account Deletion) — SunahMuslim\",\"description\":\"Panduan dan prosedur permohonan penghapusan akun serta data pribadi pengguna SunahMuslim sesuai Google Play Developer Policy dan regulasi perlindungan privasi data.\",\"inLanguage\":\"id\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"SunahMuslim\",\"url\":\"https://sunahmuslim.com\",\"logo\":\"https://sunahmuslim.com/logo.png\"}}]"}}],["$","$L1c",null,{"lang":"id"}],["$","$L1d",null,{}]]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]
+17:null
+1e:T64d,jadwal sholat tanpa iklan,aplikasi jadwal sholat offline,jadwal sholat hari ini di lokasi saya,jadwal sholat disini,jadwal sholat hari ini,jadwal waktu sholat,jadwal imsakiyah ramadhan 2026,waktu sholat tahajjud,alarm adzan otomatis,al quran 30 juz terjemahan,dzikir pagi petang shahih,arah kiblat tanpa internet,pengingat waktu shalat,jadwal sholat jakarta,jadwal sholat surabaya,jadwal sholat bandung,islamic prayer times,prayer times near me,prayer times today,muslim prayer times,best muslim prayer app,free muslim prayer app,best adhan app,ad free prayer times app,offline prayer times app,offline quran app,the holy quran english translation,qibla direction finder,qibla finder compass,offline qibla direction,authentic morning evening adhkar,ramadan 2026 prayer times,ramadan prayer times,tahajjud prayer time,sunnah muslim,sunnahmuslim,sunnah habits,sunnah daily timeline,prophetic sunnah routine,ahlus sunnah wal jamaah,sunnah prayer times,sunnah offline companion,sahih hadith takhrij albani,4 madzhab comparative fiqh,sunah muslim,sunahmuslim,sunah nabi,panduan sunnah 24 jam,linimasa ibadah nabi,jadwal sholat offline,waktu sholat akurat,arah kiblat falak,takhrij hadits shahih,hadits shahih bukhari muslim albani,fiqih 4 madzhab,komparasi madzhab fiqih,mutabaah yaumiyah,manhaj salafus shalih,سنة مسلم,مواقيت الصلاة بدون نت,أذان بدون إعلانات,القرآن الكريم بدون إنترنت,أذكار الصباح والمساء الصحيحة,سنن النبي اليومية,مواقيت الصلاة الدقيقة,تخريج الأحاديث الصحيحة1b:[["$","title","0",{"children":"Permohonan Penghapusan Akun & Data (Account Deletion) — SunahMuslim"}],["$","meta","1",{"name":"description","content":"Panduan dan prosedur permohonan penghapusan akun serta data pribadi pengguna SunahMuslim sesuai Google Play Developer Policy dan regulasi perlindungan privasi data."}],["$","link","2",{"rel":"author","href":"https://sunahmuslim.com"}],["$","meta","3",{"name":"author","content":"SunahMuslim Team"}],["$","link","4",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"$1e"}],["$","meta","6",{"name":"creator","content":"SunahMuslim"}],["$","meta","7",{"name":"publisher","content":"SunahMuslim"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"Lifestyle"}],["$","link","11",{"rel":"canonical","href":"https://sunahmuslim.com/id/delete-account/"}],["$","link","12",{"rel":"alternate","hrefLang":"id","href":"https://sunahmuslim.com/id/delete-account/"}],["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://sunahmuslim.com/en/delete-account/"}],["$","link","14",{"rel":"alternate","hrefLang":"ar","href":"https://sunahmuslim.com/ar/delete-account/"}],["$","link","15",{"rel":"alternate","hrefLang":"x-default","href":"https://sunahmuslim.com/delete-account/"}],["$","meta","16",{"property":"og:title","content":"Permohonan Penghapusan Akun & Data (Account Deletion) — SunahMuslim"}],["$","meta","17",{"property":"og:description","content":"Panduan dan prosedur permohonan penghapusan akun serta data pribadi pengguna SunahMuslim sesuai Google Play Developer Policy dan regulasi perlindungan privasi data."}],["$","meta","18",{"property":"og:url","content":"https://sunahmuslim.com/id/delete-account/"}],["$","meta","19",{"property":"og:site_name","content":"SunahMuslim"}],["$","meta","20",{"property":"og:locale","content":"id_ID"}],["$","meta","21",{"property":"og:image","content":"https://sunahmuslim.com/logo.png"}],["$","meta","22",{"property":"og:image:width","content":"512"}],["$","meta","23",{"property":"og:image:height","content":"512"}],"$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]
+2f:I[91239,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"IconMark"]
+1f:["$","meta","24",{"property":"og:image:alt","content":"SunahMuslim Official Logo"}]
+20:["$","meta","25",{"property":"og:locale:alternate","content":"id_ID"}]
+21:["$","meta","26",{"property":"og:locale:alternate","content":"en_US"}]
+22:["$","meta","27",{"property":"og:locale:alternate","content":"ar_SA"}]
+23:["$","meta","28",{"property":"og:type","content":"article"}]
+24:["$","meta","29",{"name":"twitter:card","content":"summary_large_image"}]
+25:["$","meta","30",{"name":"twitter:title","content":"Permohonan Penghapusan Akun & Data (Account Deletion) — SunahMuslim"}]
+26:["$","meta","31",{"name":"twitter:description","content":"Panduan dan prosedur permohonan penghapusan akun serta data pribadi pengguna SunahMuslim sesuai Google Play Developer Policy dan regulasi perlindungan privasi data."}]
+27:["$","meta","32",{"name":"twitter:image","content":"https://sunahmuslim.com/logo.png"}]
+28:["$","link","33",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}]
+29:["$","link","34",{"rel":"icon","href":"/favicon-48x48.png","sizes":"48x48","type":"image/png"}]
+2a:["$","link","35",{"rel":"icon","href":"/favicon-96x96.png","sizes":"96x96","type":"image/png"}]
+2b:["$","link","36",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+2c:["$","link","37",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+2d:["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2e:["$","$L2f","39",{}]

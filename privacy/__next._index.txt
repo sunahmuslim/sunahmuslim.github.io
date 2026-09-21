@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+:HL["/_next/static/chunks/3dzq_9g3z3mkz.css","style"]
+:HL["/_next/static/chunks/3d9yf3mwe18s9.css","style"]
+2:T112d,{"@context":"https://schema.org","@graph":[{"@type":"MobileApplication","@id":"https://sunahmuslim.com/#app","name":"SunahMuslim","alternateName":["Sunnah Muslim","SunnahMuslim","Sunah Muslim","SunahMuslim","SunnahSync","SalafHabit","Ihya Daily"],"operatingSystem":"Android, Web (PWA)","applicationCategory":"LifestyleApplication","applicationSubCategory":"Religious & Spiritual Guidance","isAccessibleForFree":true,"softwareVersion":"1.0.0","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock"},"description":"Panduan Linimasa Keseharian Nabi ﷺ (24 Jam), Hisab Waktu Shalat & Kiblat Falak Presisi 100% Offline, Dalil Shahih/Hasan, dan Fiqih 4 Madzhab.","downloadUrl":"https://play.google.com/store/apps/details?id=com.sunahmuslim.app","knowsAbout":["Islamic Prayer Times","Salah & Adhan","Qibla Direction & Solar Shadow","Holy Quran 30 Juz","Hadith Takhrij (Shaykh Al-Albani & Ibn Hajar)","Objective 4-Madzhab Comparative Fiqh (Hanafi, Maliki, Shafi'i, Hanbali)","Authentic Morning and Evening Adhkar (Hisnul Muslim)","Prophetic Sunnah 24-Hour Timeline","Manhaj Salafus Shalih"],"audience":{"@type":"Audience","audienceType":"Muslims worldwide seeking authentic, ad-free prophetic guidance"},"featureList":["24-Hour Prophetic Daily Timeline (7 Prophetic Time Anchors)","100% Offline Astronomical Solar Prayer Times (Zero external API)","Solar Shadow & Magnetic Qibla Direction Compass","100% Takhrij Shahih & Hasan (Syaikh Al-Albani & Ibnu Hajar)","Objective 4-Madzhab Comparative Fiqh Analysis (Hanafi, Maliki, Syafi'i, Hambali)","Zero-PII Privacy Guarantee (0 bytes sent to external servers)","100% Ad-Free Forever (No Riba, No Gharar, No Tracking SDKs)"],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".section-title",".faq-answer",".methodology-desc"]}},{"@type":"Organization","@id":"https://sunahmuslim.com/#organization","name":"SunahMuslim","url":"https://sunahmuslim.com","logo":"https://sunahmuslim.com/logo.png","contactPoint":{"@type":"ContactPoint","email":"support@sunahmuslim.com","contactType":"Customer Support"},"sameAs":["https://play.google.com/store/apps/details?id=com.sunahmuslim.app"]},{"@type":"WebSite","@id":"https://sunahmuslim.com/#website","url":"https://sunahmuslim.com","name":"SunahMuslim","description":"Official Web Portal & Daily Prophetic Worship Companion","publisher":{"@id":"https://sunahmuslim.com/#organization"},"inLanguage":["id","en","ar"]},{"@type":"FAQPage","@id":"https://sunahmuslim.com/#faq","mainEntity":[{"@type":"Question","name":"Apakah SunahMuslim dapat digunakan 100% tanpa internet (offline)?","acceptedAnswer":{"@type":"Answer","text":"Ya, seluruh fitur inti seperti hisab waktu shalat astronomis, kompas arah kiblat, linimasa amalan 24 jam, dan panduan fiqih 4 madzhab dapat beroperasi 100% luring (offline) tanpa ketergantungan koneksi internet."}},{"@type":"Question","name":"Bagaimana standar keshahihan dalil yang digunakan di SunahMuslim?","acceptedAnswer":{"@type":"Answer","text":"SunahMuslim menerapkan kebijakan ketat zero-dha'if tolerance. Seluruh hadits dan dalil wajib berderajat Shahih atau Hasan menurut ulama muhaddits mu'tabar seperti Syaikh Muhammad Nashiruddin Al-Albani, Syaikh Syu'aib Al-Arnauth, dan Al-Hafizh Ibnu Hajar."}},{"@type":"Question","name":"Bagaimana SunahMuslim menyajikan perbedaan pendapat (ikhtilaf) fiqih?","acceptedAnswer":{"@type":"Answer","text":"Kami menyajikan pandangan 4 madzhab Ahlus Sunnah (Hanafi, Maliki, Syafi'i, Hambali) secara objektif dan berimbang, merujuk langsung ke kitab-kitab induk seperti Al-Mughni, Al-Majmu', dan Bada'i' As-Sana'i'."}},{"@type":"Question","name":"Apakah aplikasi SunahMuslim benar-benar gratis dan bebas iklan?","acceptedAnswer":{"@type":"Answer","text":"Ya, 100% gratis dan bebas iklan selamanya. SunahMuslim berkomitmen menjaga kekhusyukan ibadah Anda dengan tidak menyematkan iklan pihak ketiga (bebas Riba/Gharar) serta menjamin privasi mutlak tanpa pelacakan data pribadi (Zero-PII)."}},{"@type":"Question","name":"Bagaimana cara kerja jadwal sholat dan arah kiblat tanpa koneksi internet?","acceptedAnswer":{"@type":"Answer","text":"SunahMuslim menggunakan hisab falak astronomi lokal murni dan kompas bayangan matahari. Seluruh perhitungan posisi matahari dan waktu shalat 5 waktu diproses langsung di HP Anda secara matematis tanpa memerlukan kuota data atau sinyal internet."}}]}]}5:X
+0:{"buildId":"xiVExsGzFZTG1ZSbDDMH4","data":[{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dzq_9g3z3mkz.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3d9yf3mwe18s9.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0ubt_h5x6iqvs.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0bt_grpq8iddr.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2jppnkpu2w4zx.js","async":true}]],["$","html",null,{"lang":"id","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","className":"plus_jakarta_sans_8def66c5-module__XA8t6q__variable newsreader_46f8440c-module__Cxszqq__variable amiri_a4c88fd9-module__x0hJVW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"alternate","type":"text/plain","href":"https://sunahmuslim.com/llms.txt","title":"LLM Context"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon.svg?v=20260912"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"48x48","href":"/favicon-48x48.png?v=20260912"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"96x96","href":"/favicon-96x96.png?v=20260912"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"192x192","href":"/icon-192x192.png?v=20260912"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-touch-icon.png?v=20260912"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],"$L3"]}]]}],"isPartial":"$@4","staleTime":"$5","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@6","rootVaryParams":null,"needsRuntimeRequest":"$@7"}
+8:I[75070,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],""]
+a:I[19289,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"I18nProvider"]
+b:I[61328,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"Navbar"]
+c:I[60486,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"default"]
+d:I[35295,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"default"]
+e:I[64277,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js","/_next/static/chunks/3-9nol20wb9im.js","/_next/static/chunks/25rl79zpsji79.js"],"default"]
+f:I[48277,["/_next/static/chunks/0ubt_h5x6iqvs.js","/_next/static/chunks/0bt_grpq8iddr.js","/_next/static/chunks/2jppnkpu2w4zx.js"],"Footer"]
+9:T9c9,
+            // Defensive safeguard against GA4 YouTube Enhanced Measurement race conditions
+            (function() {
+              if (typeof window === 'undefined') return;
+              var safeMethods = {
+                getDuration: function() { return 0; },
+                getCurrentTime: function() { return 0; },
+                getPlaybackRate: function() { return 1; },
+                getAvailablePlaybackRates: function() { return [1]; },
+                getPlayerState: function() { return -1; },
+                getVideoData: function() { return { video_id: '', author: '', title: '' }; },
+                getVideoUrl: function() { return ''; },
+                getVolume: function() { return 100; },
+                isMuted: function() { return false; },
+                getVideoLoadedFraction: function() { return 0; },
+                getPlaybackQuality: function() { return 'auto'; },
+                getAvailableQualityLevels: function() { return []; },
+                getIframe: function() { return this instanceof Element ? this : null; },
+                seekTo: function() {},
+                playVideo: function() {},
+                pauseVideo: function() {},
+                stopVideo: function() {},
+                destroy: function() {}
+              };
+
+              function patchProto(proto) {
+                if (!proto) return;
+                for (var k in safeMethods) {
+                  if (typeof proto[k] !== 'function') {
+                    proto[k] = safeMethods[k];
+                  }
+                }
+              }
+
+              if (typeof HTMLIFrameElement !== 'undefined') {
+                patchProto(HTMLIFrameElement.prototype);
+              }
+
+              var _yt = window.YT;
+              Object.defineProperty(window, 'YT', {
+                configurable: true,
+                enumerable: true,
+                get: function() { return _yt; },
+                set: function(val) {
+                  _yt = val;
+                  if (_yt && _yt.Player && _yt.Player.prototype) {
+                    patchProto(_yt.Player.prototype);
+                  }
+                }
+              });
+
+              if (_yt && _yt.Player && _yt.Player.prototype) {
+                patchProto(_yt.Player.prototype);
+              }
+            })();
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-ZNL0N235HQ');
+          3:["$","body",null,{"suppressHydrationWarning":true,"children":[["$","$L8",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-ZNL0N235HQ","strategy":"afterInteractive"}],["$","$L8",null,{"id":"google-analytics","strategy":"afterInteractive","children":"$9"}],["$","a",null,{"href":"#main-content","className":"skip-to-content","children":"Lewati ke konten utama / Skip to main content"}],["$","$La",null,{"children":[["$","div",null,{"className":"ambient-glow"}],["$","$Lb",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","$Le",null,{}],[]]}]}],["$","$Lf",null,{}]]}]]}]
+5:300
+7:true
+5:C
+6:0
+4:"$undefined"
